@@ -1,0 +1,13 @@
+{
+  "packageName": "com.novaroleplay.game",
+  "versionCode": 16,
+  "versionName": "1.6",
+  "minimumVersionName": "1.6",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v1.6/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 405903527,
+  "sha256": "deb432bfe88c6c7d731ddd86e8b0ab5e1b3982cd67d5e1258cf9befef1f43896",
+  "mandatory": true,
+  "notes": "Versão inicial oficial publicada para o launcher.",
+  "publishedAt": "2026-08-07T00:00:00-03:00"
+}
+
