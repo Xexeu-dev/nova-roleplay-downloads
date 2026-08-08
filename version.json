@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 18,
-  "versionName": "1.8",
-  "minimumVersionName": "1.8",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v1.8/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 46878206,
-  "sha256": "026cb8927c501df9483766f629a692f0d4509785a69553de53821320f0ac8294",
+  "versionCode": 19,
+  "versionName": "1.9",
+  "minimumVersionName": "1.9",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v1.9/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 48910746,
+  "sha256": "61339b724dca1964b1c1b94e709cb87bd0f2c203d554d8b12369b97396a30403",
   "mandatory": true,
-  "notes": "",
-  "publishedAt": "2026-08-08T17:12:42.184Z"
+  "notes": "Nova identidade visual, ID privado por instalacao com bloqueio antes do jogo, Data Mob incremental em segundo plano, animacao padrao GTA SA, log somente por solicitacao e botao VOIP redondo.",
+  "publishedAt": "2026-08-08T16:20:00-03:00"
 }
