@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 16,
-  "versionName": "1.6",
-  "minimumVersionName": "1.6",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v1.6/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 405903527,
-  "sha256": "deb432bfe88c6c7d731ddd86e8b0ab5e1b3982cd67d5e1258cf9befef1f43896",
+  "versionCode": 17,
+  "versionName": "1.7",
+  "minimumVersionName": "1.7",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v1.7/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 419362678,
+  "sha256": "e94617531c6184295989bb66af9d3bb4670141eada39931c40cd073c689d6a12",
   "mandatory": true,
-  "notes": "",
-  "publishedAt": "2026-08-08T06:39:45.357Z"
+  "notes": "- Alteração na animação\n- Otimização de renderização\n- Mudança de API launcher",
+  "publishedAt": "2026-08-08T12:45:41.890Z"
 }
