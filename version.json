@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 21,
-  "versionName": "2.1",
-  "minimumVersionName": "2.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v2.1/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 48938066,
-  "sha256": "8211265b382c67785cc534272619e38fce1783286a5141bd1ff5a973790af199",
+  "versionCode": 22,
+  "versionName": "2.0.2",
+  "minimumVersionName": "2.0.2",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v2.0.2/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 48985302,
+  "sha256": "216878be9181a4daa9e075dff613a3bd8b3e105cce2904d437ddf466dfefeb85",
   "mandatory": true,
-  "notes": "- Ajustes no som de notificação",
-  "publishedAt": "2026-08-09T14:09:41.410Z"
+  "notes": "- Ajustes no som de notificação\n- Integração direta no servidor\n- Outros apk's bloqueados pra login!",
+  "publishedAt": "2026-08-09T15:29:35.597Z"
 }
