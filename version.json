@@ -3,7 +3,7 @@
   "versionCode": 24,
   "versionName": "2.0.4",
   "minimumVersionName": "2.0.4",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v2.0.4/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv2.0.4%2FNOVA-ROLEPLAY.apk",
   "sizeBytes": 48986234,
   "sha256": "9dc4207cb13ea483d9069b18e01f5dfac2c0ff2df5377de6733e891e886ebc6b",
   "mandatory": true,
