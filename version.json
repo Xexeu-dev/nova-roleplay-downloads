@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 24,
-  "versionName": "2.0.4",
-  "minimumVersionName": "2.0.4",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv2.0.4%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 48986234,
-  "sha256": "9dc4207cb13ea483d9069b18e01f5dfac2c0ff2df5377de6733e891e886ebc6b",
+  "versionCode": 25,
+  "versionName": "2.0.5",
+  "minimumVersionName": "2.0.5",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv2.0.5%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 48989102,
+  "sha256": "bfe3ec5e159d68d83ddb8e5b4564ac3d846e93de1117c05935943e40075f201a",
   "mandatory": true,
-  "notes": "- Ajustes no som de notificação\n- Integração direta no servidor\n- Outros apk's bloqueados pra login!\n- ajuste no login",
-  "publishedAt": "2026-08-09T16:56:36.831Z"
+  "notes": "- CORRIGIDO BUGS E CRASHS",
+  "publishedAt": "2026-08-11T02:48:48.476Z"
 }
