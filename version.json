@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 31,
-  "versionName": "2.8",
-  "minimumVersionName": "2.8",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv2.8%2FNOVA-ROLEPLAY.apk",
+  "versionCode": 33,
+  "versionName": "2.9",
+  "minimumVersionName": "2.9",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv2.9%2FNOVA-ROLEPLAY.apk",
   "sizeBytes": 49031544,
-  "sha256": "838b826ee44ac2ac00bed0e5645add64f0958f89690ce7f17e49ddb90bb92ffb",
+  "sha256": "a6942603dc91ac4a796d71b3cb45f0a8d754527378eb7fe209408fd567c39a69",
   "mandatory": true,
-  "notes": "correções e melhorias",
-  "publishedAt": "2026-08-15T17:01:12.846Z"
+  "notes": "animação e hud",
+  "publishedAt": "2026-08-15T17:45:13.901Z"
 }
