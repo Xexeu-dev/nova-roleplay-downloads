@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 36,
+  "versionCode": 37,
   "versionName": "3.0",
   "minimumVersionName": "3.0",
   "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.0%2FNOVA-ROLEPLAY.apk",
   "sizeBytes": 45721823,
-  "sha256": "f2a5c717219c17b4e9cce9d370261c38852cfe5cbd9e4bc3e05275bc93b2734b",
+  "sha256": "46724667f2ce052170e682ac8989bb4af1fbf560eba0f692a0136da365413b57",
   "mandatory": true,
   "notes": "ALTEREI ANIMAÇÃO E HUD JETPACK",
-  "publishedAt": "2026-08-16T14:17:34.594Z"
+  "publishedAt": "2026-08-16T14:39:03.416Z"
 }
