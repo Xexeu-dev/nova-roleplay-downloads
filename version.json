@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 44,
-  "versionName": "3.2",
-  "minimumVersionName": "3.2",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.2%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 45787359,
-  "sha256": "3cf814f96a391b626b01841e7e84c1cc34f05f60859319842ce0c31bc1d63643",
+  "versionCode": 45,
+  "versionName": "3.3",
+  "minimumVersionName": "3.3",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.3%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 45799647,
+  "sha256": "cecaa8e5da3949222f087204215bc360f013a35396dfcef71c1c73ae43cb3635",
   "mandatory": true,
-  "notes": "- ATUALIZAÇÕES DISPONIVEIS NO DISCORD",
-  "publishedAt": "2026-08-17T16:34:55.071Z"
+  "notes": "correções",
+  "publishedAt": "2026-08-17T20:22:22.170Z"
 }
