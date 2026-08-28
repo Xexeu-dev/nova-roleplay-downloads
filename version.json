@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 52,
-  "versionName": "3.5",
-  "minimumVersionName": "3.5",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.5%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 45976193,
-  "sha256": "729432786e2d39e6ba80fe11d06784f90b650de0870ef02b3d53636eaa794898",
+  "versionCode": 53,
+  "versionName": "3.6",
+  "minimumVersionName": "3.6",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.6%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 45984385,
+  "sha256": "25f78b838619f723db5ab3aadb9d6d2ac31f618d2962eeb27d429c60f1bb7be2",
   "mandatory": true,
-  "notes": "58",
-  "publishedAt": "2026-08-27T10:28:56.719Z"
+  "notes": "Menus responsivos sem cortes, gesto de arrastar na fist para avancar ou voltar armas mantendo a roda e Nova Sound/Spotify dentro do APK.",
+  "publishedAt": "2026-08-28T22:02:52.000Z"
 }
