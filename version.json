@@ -7,6 +7,6 @@
   "sizeBytes": 46392725,
   "sha256": "64dfb82dfb76892e5ca3df4f20ce4ad457550a9522dec5d1c5cdd67a65ff00ba",
   "mandatory": true,
-  "notes": "Correcao do crash nativo durante teleporte/espectador em veiculos rapidos, mantendo a versao publica 3.7.",
-  "publishedAt": "2026-09-01T23:19:32.000Z"
+  "notes": "micro atualizações",
+  "publishedAt": "2026-09-01T23:25:40.816Z"
 }
