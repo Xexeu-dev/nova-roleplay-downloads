@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 57,
+  "versionCode": 58,
   "versionName": "3.7",
   "minimumVersionName": "3.7",
   "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 46394489,
-  "sha256": "9c7210c5df4c511c76e38db176d626ead87797aa1b94da94ecb9fdfc84f26cad",
+  "sizeBytes": 46392725,
+  "sha256": "64dfb82dfb76892e5ca3df4f20ce4ad457550a9522dec5d1c5cdd67a65ff00ba",
   "mandatory": true,
-  "notes": "- correções e melhorias (tudo no dc)",
-  "publishedAt": "2026-09-01T03:34:59.215Z"
+  "notes": "Correcao do crash nativo durante teleporte/espectador em veiculos rapidos, mantendo a versao publica 3.7.",
+  "publishedAt": "2026-09-01T23:19:32.000Z"
 }
