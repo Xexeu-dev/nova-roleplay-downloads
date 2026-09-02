@@ -3,7 +3,7 @@
   "versionCode": 59,
   "versionName": "3.7",
   "minimumVersionName": "3.7",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7%2FNOVA-ROLEPLAY-build59.apk",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7-build59%2FNOVA-ROLEPLAY.apk",
   "sizeBytes": 46395465,
   "sha256": "e3207b2555cbbddb0c08034a662d72150e344a659b5fdac4ece72fb4c2c4f786",
   "mandatory": true,
