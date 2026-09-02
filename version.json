@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 59,
+  "versionCode": 60,
   "versionName": "3.7",
   "minimumVersionName": "3.7",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7-build59%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 46395465,
-  "sha256": "e3207b2555cbbddb0c08034a662d72150e344a659b5fdac4ece72fb4c2c4f786",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7-build60%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 46410929,
+  "sha256": "1f1a456f171f9a4da09cafbcdd8d9f9dcad77c21ce3ee055d144e6c4422ecac9",
   "mandatory": true,
-  "notes": "Hotfix 3.7: estabilizacao de tarefas e animacoes, limpeza segura sem teleporte, inicializacao de peds ARM64, reducao de spam de log e diagnostico de crash nativo, ANR e falta de memoria.",
-  "publishedAt": "2026-09-02T06:55:35.969Z"
+  "notes": "Atualizacao 3.7 build 60: nova interface nativa do WhatsApp integrada ao telefone do APK, com conversas, contatos, envio de mensagens e navegacao corrigida. Ajustes de proporcao para evitar menus cortados.",
+  "publishedAt": "2026-09-02T19:25:55.000Z"
 }
