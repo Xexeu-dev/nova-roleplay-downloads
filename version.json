@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 58,
+  "versionCode": 59,
   "versionName": "3.7",
   "minimumVersionName": "3.7",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 46392725,
-  "sha256": "64dfb82dfb76892e5ca3df4f20ce4ad457550a9522dec5d1c5cdd67a65ff00ba",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7%2FNOVA-ROLEPLAY-build59.apk",
+  "sizeBytes": 46395465,
+  "sha256": "e3207b2555cbbddb0c08034a662d72150e344a659b5fdac4ece72fb4c2c4f786",
   "mandatory": true,
-  "notes": "micro atualizações",
-  "publishedAt": "2026-09-01T23:25:40.816Z"
+  "notes": "Hotfix 3.7: estabilizacao de tarefas e animacoes, limpeza segura sem teleporte, inicializacao de peds ARM64, reducao de spam de log e diagnostico de crash nativo, ANR e falta de memoria.",
+  "publishedAt": "2026-09-02T06:55:35.969Z"
 }
