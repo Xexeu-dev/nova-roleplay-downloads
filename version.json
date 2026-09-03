@@ -1,13 +1,13 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 63,
-  "versionName": "3.7",
+  "versionCode": 64,
+  "versionName": "3.8",
   "minimumVersionName": "3.7",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7-build63%2FNOVA-ROLEPLAY.apk",
-  "githubTag": "v3.7-build63",
-  "sizeBytes": 46419121,
-  "sha256": "be0f816a714ec0a518a5300014143f4878e4e6b05645535a8e09f7db29cf643c",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.8-build64%2FNOVA-ROLEPLAY.apk",
+  "githubTag": "v3.8-build64",
+  "sizeBytes": 46497001,
+  "sha256": "19489e15cf787fe7f8fc6586bbb5bbdb00943042bb23c06832bbed733f1372f2",
   "mandatory": true,
-  "notes": "WhatsApp nativo funcional: botoes, conversas, contatos, envio e fechamento corrigidos. Inicializacao grafica ajustada para evitar FPS baixo ate minimizar e restaurar o jogo.",
-  "publishedAt": "2026-09-03T13:31:37.000Z"
+  "notes": "Versao 3.8: corrige inicializacao com FPS baixo e HUD ausente; amplia o Mobilador com correr, mirar, trocar armas, setas e strafe; adiciona mira independente semelhante ao PC, importacao segura de Data Modificada e camera/selfie no telefone.",
+  "publishedAt": "2026-09-03T17:53:52.000Z"
 }
