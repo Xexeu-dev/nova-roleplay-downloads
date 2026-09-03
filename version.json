@@ -1,12 +1,13 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 60,
+  "versionCode": 62,
   "versionName": "3.7",
   "minimumVersionName": "3.7",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 46410929,
-  "sha256": "1f1a456f171f9a4da09cafbcdd8d9f9dcad77c21ce3ee055d144e6c4422ecac9",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.7-build62%2FNOVA-ROLEPLAY.apk",
+  "githubTag": "v3.7-build62",
+  "sizeBytes": 46415025,
+  "sha256": "3b131c55f70d2f3cffbd88c6764f83d6fb48223482535c25cbd2aec83a5af458",
   "mandatory": true,
-  "notes": "correções de crashs",
-  "publishedAt": "2026-09-02T20:10:03.998Z"
+  "notes": "Correcoes de crashes na versao 3.7 build 62: corrige congelamento do Mobilador ao agachar, levantar e atirar; reduz fila de toques e analogico preso; estabiliza transicoes de veiculos, carro de drogas, animacoes e teleportes; mantem o envio voluntario de relatorios de crash.",
+  "publishedAt": "2026-09-03T01:23:50.000Z"
 }
