@@ -1,13 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 64,
+  "versionCode": 71,
   "versionName": "3.8",
-  "minimumVersionName": "3.7",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.8-build64%2FNOVA-ROLEPLAY.apk",
-  "githubTag": "v3.8-build64",
-  "sizeBytes": 46497001,
-  "sha256": "19489e15cf787fe7f8fc6586bbb5bbdb00943042bb23c06832bbed733f1372f2",
+  "minimumVersionName": "3.8",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.8%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 46505193,
+  "sha256": "c20900d2229f43a87df8230a07567790b703b675dccc07a65a9c4d063c1ad803",
   "mandatory": true,
-  "notes": "Versao 3.8: corrige inicializacao com FPS baixo e HUD ausente; amplia o Mobilador com correr, mirar, trocar armas, setas e strafe; adiciona mira independente semelhante ao PC, importacao segura de Data Modificada e camera/selfie no telefone.",
-  "publishedAt": "2026-09-03T17:53:52.000Z"
+  "notes": "- Ajustes",
+  "publishedAt": "2026-09-04T02:52:51.530Z"
 }
