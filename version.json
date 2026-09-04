@@ -3,11 +3,10 @@
   "versionCode": 72,
   "versionName": "3.8",
   "minimumVersionName": "3.8",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.8-build72%2FNOVA-ROLEPLAY.apk",
-  "githubTag": "v3.8-build72",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv3.8%2FNOVA-ROLEPLAY.apk",
   "sizeBytes": 46566778,
   "sha256": "00cfec2c0425e9f2b9463ba81b59708981c240a4409b2c7bd0406071759c1321",
   "mandatory": true,
-  "notes": "Versao 3.8 build 72: protege a Data Modificada contra texturas incompativeis; corrige o crash gta_int; WhatsApp nativo funcional; camera selfie com controles; atalhos azuis com icones de carro e porta.",
-  "publishedAt": "2026-09-04T07:29:34.000Z"
+  "notes": "correções!",
+  "publishedAt": "2026-09-04T08:23:52.586Z"
 }
