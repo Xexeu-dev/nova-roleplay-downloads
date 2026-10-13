@@ -1,12 +1,12 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 115,
+  "versionCode": 116,
   "versionName": "4.0",
   "minimumVersionName": "4.0",
   "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.0%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 48029404,
-  "sha256": "e734f71d693cc0f6917cb0f1e9cd4e02c3debb5fe96cd234eaafab05ad870ba6",
+  "sizeBytes": 48033500,
+  "sha256": "16f1535552ae25d92e99f23b6c41fe45956657b3e2ebe2db953ebd4e0cc75bd6",
   "mandatory": true,
-  "notes": "Correções de crash",
-  "publishedAt": "2026-10-02T19:02:01.784Z"
+  "notes": "- Correções",
+  "publishedAt": "2026-10-13T21:13:40.264Z"
 }
