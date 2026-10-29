@@ -1,12 +1,13 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 128,
-  "versionName": "4.0",
-  "minimumVersionName": "4.0",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.0%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 50586085,
-  "sha256": "abc0096581c398d6ffc27ac0ef5ae4d570dab2577787cbe89b43f25bc05b97a3",
+  "versionCode": 129,
+  "versionName": "4.1",
+  "minimumVersionName": "4.1",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.1-build129%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 52740805,
+  "sha256": "3c954154c624a13da5c8505b2291923dd9ff38e112d74f84d0aba8f698e795db",
   "mandatory": true,
-  "notes": "",
-  "publishedAt": "2026-10-29T01:34:38.383Z"
+  "notes": "A tela de entrada mudou: agora abre deitada, com o fundo do launcher de PC, campo de nick e configurações no topo.\n\nO jogo abre sem precisar do launcher. Nas configurações, você pode copiar o ID de instalação.\n\nCorrigimos a escolha e a aplicação da Data, mantendo os arquivos anteriores quando algo falha. Ao jogar, o app confere as atualizações do jogo e da Data. O Android pede sua confirmação para instalar uma nova versão.\n\nO telefone ganhou telas próprias para os aplicativos. Os menus de PC continuam funcionando como antes.\n\nTambém ajustamos os avisos no Android e reduzimos animações e consultas em segundo plano. A versão necessária para entrar passa a ser 4.1, build 129 ou superior.",
+  "publishedAt": "2026-10-29T23:36:06.830Z",
+  "minimumVersionCode": 129
 }
