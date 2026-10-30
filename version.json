@@ -1,13 +1,13 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 130,
+  "versionCode": 136,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.1-build130%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 52745069,
-  "sha256": "cc4901810d11333f3eedfc5d623f1dd122927d3c392e271ee3d8a28e9554793c",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.1-build136%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 52876141,
+  "sha256": "c71f2ad349a41450557d9140572368db85a2e1ceb51525e99092c212175ad856",
   "mandatory": true,
-  "notes": "Os ícones das redes na lateral agora usam os mesmos desenhos e cores do launcher de PC, com botões redondos.\n\nA tela de entrada mudou: agora abre deitada, com o fundo do launcher de PC, campo de nick e configurações no topo.\n\nO jogo abre sem precisar do launcher. Nas configurações, você pode copiar o ID de instalação.\n\nCorrigimos a escolha e a aplicação da Data, mantendo os arquivos anteriores quando algo falha. Ao jogar, o app confere as atualizações do jogo e da Data. O Android pede sua confirmação para instalar uma nova versão.\n\nO telefone ganhou telas próprias para os aplicativos. Os menus de PC continuam funcionando como antes.\n\nTambém ajustamos os avisos no Android e reduzimos animações e consultas em segundo plano. A versão necessária para entrar passa a ser 4.1, build 129 ou superior.",
-  "publishedAt": "2026-10-30T00:06:22.653Z",
-  "minimumVersionCode": 130
+  "notes": "Corrigimos as cores dos mapeamentos e o letreiro do hospital, em azul com bordas pretas. As texturas de referência são as mesmas da Data de PC.\n\nA recarga de arma só deve aparecer quando o outro jogador estiver recarregando. O /dancepc recebeu ajustes para completar cada movimento sem cortes antecipados.\n\nAs imagens de textura e VoIP ficam fora da galeria, inclusive em pastas de instalações anteriores.\n\nO carregamento voltou a usar a foto de fundo, os quadrados que acendem ao toque e a logo que pode ser arrastada.\n\nReduzimos chamadas e gravações repetidas do VoIP nos motores de 32 e 64 bits. Ao sair, o jogo libera a orientação da tela.\n\nNo servidor, corrigimos a persistência de bloqueios de conta, liberamos os recursos da org 31 e ajustamos o consumo de dinamite no /homembomba.",
+  "publishedAt": "2026-10-30T12:09:45.596Z",
+  "minimumVersionCode": 136
 }
