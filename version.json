@@ -1,13 +1,13 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 136,
+  "versionCode": 142,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.1-build136%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 52876141,
-  "sha256": "c71f2ad349a41450557d9140572368db85a2e1ceb51525e99092c212175ad856",
+  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.1-build142%2FNOVA-ROLEPLAY.apk",
+  "sizeBytes": 52884333,
+  "sha256": "16c42759e69d204797d38686273405ccfc7225ef4a4f56cab589b36663de82c0",
   "mandatory": true,
-  "notes": "Corrigimos as cores dos mapeamentos e o letreiro do hospital, em azul com bordas pretas. As texturas de referência são as mesmas da Data de PC.\n\nA recarga de arma só deve aparecer quando o outro jogador estiver recarregando. O /dancepc recebeu ajustes para completar cada movimento sem cortes antecipados.\n\nAs imagens de textura e VoIP ficam fora da galeria, inclusive em pastas de instalações anteriores.\n\nO carregamento voltou a usar a foto de fundo, os quadrados que acendem ao toque e a logo que pode ser arrastada.\n\nReduzimos chamadas e gravações repetidas do VoIP nos motores de 32 e 64 bits. Ao sair, o jogo libera a orientação da tela.\n\nNo servidor, corrigimos a persistência de bloqueios de conta, liberamos os recursos da org 31 e ajustamos o consumo de dinamite no /homembomba.",
-  "publishedAt": "2026-10-30T12:09:45.596Z",
-  "minimumVersionCode": 136
+  "notes": "Ajustamos o letreiro do hospital, mantendo as letras azuis com bordas pretas, e corrigimos a moldura do minimapa.\n\nEsta versão também reúne ajustes na sincronização das animações e no processamento dos jogadores pelos motores de 32 e 64 bits.\n\nA queda de FPS na primeira abertura e o deslize em pisos mapeados ainda não foram resolvidos. Esses dois problemas continuam em investigação.",
+  "publishedAt": "2026-10-31T02:32:40.595Z",
+  "minimumVersionCode": 142
 }
