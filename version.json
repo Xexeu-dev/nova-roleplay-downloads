@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 144,
+  "versionCode": 147,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build144/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build147/NOVA-ROLEPLAY.apk",
   "sizeBytes": 52888429,
-  "sha256": "2d5789ccfbbf47446b6727178734002ac344baed8df43ca1929b9ffe4bb63688",
+  "sha256": "8804f92fcd7e25ad1cd0b011be375f004d42769a3781db91fa2b49c15c0645e3",
   "mandatory": true,
-  "notes": "Corrigimos o fechamento ao carregar as texturas dos novos carros e skins.\n\nA Data agora usa o formato de banco de texturas aceito pelos motores de 32 e 64 bits. Os modelos dos veículos e as skins foram mantidos.\n\nA lentidão na primeira abertura, a caminhada nos pisos mapeados e a integração do novo telefone continuam em trabalho.",
-  "publishedAt": "2026-11-04T08:40:20.609Z",
-  "minimumVersionCode": 144,
+  "notes": "Corrigimos o FPS baixo na primeira abertura: o jogo já pode usar os núcleos disponíveis sem precisar minimizar e voltar.\n\nTambém corrigimos o fechamento ao abrir a concessionária e carregar as prévias de carros modificados, com ajustes nos motores de 32 e 64 bits.\n\nA derrapagem nos pisos mapeados e o novo telefone continuam em trabalho.",
+  "publishedAt": "2026-11-04T10:04:03.707Z",
+  "minimumVersionCode": 147,
   "minVersionName": "4.1",
-  "githubTag": "v4.1-build144",
+  "githubTag": "v4.1-build147",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
