@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 143,
+  "versionCode": 144,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build143/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build144/NOVA-ROLEPLAY.apk",
   "sizeBytes": 52888429,
-  "sha256": "f915b2c8a7b0273f7ca4abaff8057670b015a8488ab5fe00cfb6153e01c55030",
+  "sha256": "2d5789ccfbbf47446b6727178734002ac344baed8df43ca1929b9ffe4bb63688",
   "mandatory": true,
-  "notes": "Tratamos a falha ao puxar ou guardar veículos e ajustamos a limpeza das prévias de objetos e skins. Também melhoramos a validação dos dados de veículos e a restauração da skin ao morrer.\n\nOs motores de 32 e 64 bits foram atualizados. O letreiro do hospital e a moldura do minimapa foram preservados.\n\nA lentidão na primeira abertura e o deslize em pisos mapeados continuam em investigação. Os novos mods de veículos para mobile ainda estão em validação.",
-  "publishedAt": "2026-11-04T00:26:54.281Z",
-  "minimumVersionCode": 143,
+  "notes": "Corrigimos o fechamento ao carregar as texturas dos novos carros e skins.\n\nA Data agora usa o formato de banco de texturas aceito pelos motores de 32 e 64 bits. Os modelos dos veículos e as skins foram mantidos.\n\nA lentidão na primeira abertura, a caminhada nos pisos mapeados e a integração do novo telefone continuam em trabalho.",
+  "publishedAt": "2026-11-04T08:40:20.609Z",
+  "minimumVersionCode": 144,
   "minVersionName": "4.1",
-  "githubTag": "v4.1-build143",
+  "githubTag": "v4.1-build144",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
