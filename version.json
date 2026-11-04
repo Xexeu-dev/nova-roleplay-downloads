@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 148,
+  "versionCode": 149,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build148/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build149/NOVA-ROLEPLAY.apk",
   "sizeBytes": 52892525,
-  "sha256": "efaf4f30377186d22138f1049eba78a5316c9526cda2cc078d904c141db773e2",
+  "sha256": "82d7f90b17162952f36efe9489e25c6719b9fe47d0ae83f1f75928a5c4c36595",
   "mandatory": true,
-  "notes": "Corrigimos a derrapagem nos pisos mapeados: caminhar, virar e parar agora seguem o comportamento do chão comum.\n\nEsta versão também mantém a correção do FPS baixo na primeira abertura, sem precisar minimizar e voltar, e do fechamento ao carregar as prévias dos veículos na concessionária.\n\nO aviso para relatar erros ficou mais curto e cabe melhor na tela horizontal.",
-  "publishedAt": "2026-11-04T10:25:34.373Z",
-  "minimumVersionCode": 148,
+  "notes": "Removemos o feixe de luz que sai dos faróis. As lentes continuam brilhando quando o farol está ligado e apagam normalmente ao desligar.\n\nMantivemos as correções do FPS na primeira abertura, da caminhada nos pisos mapeados e das prévias de veículos na concessionária.",
+  "publishedAt": "2026-11-04T14:22:41.813Z",
+  "minimumVersionCode": 149,
   "minVersionName": "4.1",
-  "githubTag": "v4.1-build148",
+  "githubTag": "v4.1-build149",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
