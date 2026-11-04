@@ -1,13 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 142,
+  "versionCode": 143,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://nova-roleplay-api.xexeu.workers.dev/api/public/game-apk/file?source=https%3A%2F%2Fgithub.com%2FXexeu-dev%2Fnova-roleplay-downloads%2Freleases%2Fdownload%2Fv4.1-build142%2FNOVA-ROLEPLAY.apk",
-  "sizeBytes": 52884333,
-  "sha256": "16c42759e69d204797d38686273405ccfc7225ef4a4f56cab589b36663de82c0",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build143/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 52888429,
+  "sha256": "f915b2c8a7b0273f7ca4abaff8057670b015a8488ab5fe00cfb6153e01c55030",
   "mandatory": true,
-  "notes": "Ajustamos o letreiro do hospital, mantendo as letras azuis com bordas pretas, e corrigimos a moldura do minimapa.\n\nEsta versão também reúne ajustes na sincronização das animações e no processamento dos jogadores pelos motores de 32 e 64 bits.\n\nA queda de FPS na primeira abertura e o deslize em pisos mapeados ainda não foram resolvidos. Esses dois problemas continuam em investigação.",
-  "publishedAt": "2026-10-31T02:32:40.595Z",
-  "minimumVersionCode": 142
+  "notes": "Tratamos a falha ao puxar ou guardar veículos e ajustamos a limpeza das prévias de objetos e skins. Também melhoramos a validação dos dados de veículos e a restauração da skin ao morrer.\n\nOs motores de 32 e 64 bits foram atualizados. O letreiro do hospital e a moldura do minimapa foram preservados.\n\nA lentidão na primeira abertura e o deslize em pisos mapeados continuam em investigação. Os novos mods de veículos para mobile ainda estão em validação.",
+  "publishedAt": "2026-11-04T00:26:54.281Z",
+  "minimumVersionCode": 143,
+  "minVersionName": "4.1",
+  "githubTag": "v4.1-build143",
+  "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
