@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 152,
+  "versionCode": 153,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build152/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build153/NOVA-ROLEPLAY.apk",
   "sizeBytes": 52908909,
-  "sha256": "e9ddaf59bf6ab626b7cf0b5c3ed230661b2938cdcb5ded4b69a9e9a3b728c58e",
+  "sha256": "8075721b33620dc83ab2eeb5728de55d3e56c667fcb5effbf37b2c1240d71d02",
   "mandatory": true,
-  "notes": "Corrigido o fechamento do jogo ao passar pela página de trens na lista de veículos. As prévias de locomotivas, vagões e bonde agora exibem apenas o modelo 3D, sem criar um trem e maquinista durante a navegação.",
-  "publishedAt": "2026-11-08T06:10:16.563Z",
-  "minimumVersionCode": 152,
+  "notes": "A entrada do jogo agora mostra Entrando na nova roleplay!. O texto vem do mesmo arquivo usado na Data do PC. Mantidas as mensagens de conexao e os demais recursos do jogo.",
+  "publishedAt": "2026-11-09T19:27:07.819Z",
+  "minimumVersionCode": 153,
   "minVersionName": "4.1",
-  "githubTag": "v4.1-build152",
+  "githubTag": "v4.1-build153",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
