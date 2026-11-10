@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 154,
+  "versionCode": 155,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build154/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build155/NOVA-ROLEPLAY.apk",
   "sizeBytes": 52913005,
-  "sha256": "5ddf0db74f6ab85844f12c6d52d831265dc688392a620cd193eaf10870a76d04",
+  "sha256": "8776bc1a31487750cba71953502e0762c50ec4854c5487101fc66b65c2383a4e",
   "mandatory": true,
-  "notes": "Ajustadas as velocidades dos 62 veículos com mods. Faggio e Pizzaboy agora usam configurações separadas. Mantidos os demais recursos do jogo.",
-  "publishedAt": "2026-11-10T17:25:51.087Z",
-  "minimumVersionCode": 154,
+  "notes": "Carros e motos com gravidade 1,5×. Jogadores, aeronaves e as outras categorias continuam com a gravidade normal. Mantidas as velocidades e os demais recursos do jogo.",
+  "publishedAt": "2026-11-10T18:36:57.692Z",
+  "minimumVersionCode": 155,
   "minVersionName": "4.1",
-  "githubTag": "v4.1-build154",
+  "githubTag": "v4.1-build155",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
