@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 161,
+  "versionCode": 162,
   "versionName": "4.1",
   "minimumVersionName": "4.1",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build161/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.1-build162/NOVA-ROLEPLAY.apk",
   "sizeBytes": 52917101,
-  "sha256": "9042d784a1446abb69a3386bb3aa74ca4e3f93c1211df29d62deb0655a2b9f85",
+  "sha256": "171b5b3e6b1974bd3bffa0b04a660af2faa0cce121fc4cbcacd5415f438144b5",
   "mandatory": true,
-  "notes": "Agora você pode editar os acessórios pelo celular usando as setas X, Y e Z ou os botões + e −. Dá para mover, girar, ajustar o tamanho, escolher a precisão e salvar ou cancelar.\n\nCorrigido o tratamento das direções do analógico nos motores de 32 e 64 bits.\n\nMantidos os veículos, skins, velocidades, gravidade e demais recursos da versão anterior. A atualização não exige baixar a Data inteira novamente.",
-  "publishedAt": "2026-11-11T16:44:43.748Z",
-  "minimumVersionCode": 161,
+  "notes": "Corrigido o peso extra que afetava helicópteros, aviões e jatos. As aeronaves voltam à gravidade normal; carros e motos continuam mais pesados. Mantidos o editor de acessórios e os demais ajustes da build anterior.",
+  "publishedAt": "2026-11-11T23:53:19.712Z",
+  "minimumVersionCode": 162,
   "minVersionName": "4.1",
-  "githubTag": "v4.1-build161",
+  "githubTag": "v4.1-build162",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
