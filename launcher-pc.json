@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "build": 23,
+  "version": "1.0.0",
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build23/NOVA-Roleplay-PC-Setup-1.0.0-build23.exe",
+  "sha256": "baefda02a0a0fac894e16df4e31bd7911504bcbc195b694a5d184f09483ebdf6",
+  "sizeBytes": 126557436,
+  "notes": "Atualizações do launcher pela própria janela, com aviso de nova versão, download conferido por SHA-256 e reinício após a instalação.\n\nInstale esta versão uma vez para receber as próximas atualizações pelo launcher. O instalador aguarda o jogo estar fechado."
+}
