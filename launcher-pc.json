@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 23,
+  "build": 24,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build23/NOVA-Roleplay-PC-Setup-1.0.0-build23.exe",
-  "sha256": "baefda02a0a0fac894e16df4e31bd7911504bcbc195b694a5d184f09483ebdf6",
-  "sizeBytes": 126557436,
-  "notes": "Atualizações do launcher pela própria janela, com aviso de nova versão, download conferido por SHA-256 e reinício após a instalação.\n\nInstale esta versão uma vez para receber as próximas atualizações pelo launcher. O instalador aguarda o jogo estar fechado."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build24/NOVA-Roleplay-PC-Setup-1.0.0-build24.exe",
+  "sha256": "0581749b2391b3984e67a8e11d7465b87b418acac479deac8da4de4544780fe4",
+  "sizeBytes": 126557819,
+  "notes": "Identificação do launcher oficial PC com sessão validada pelo servidor e identificador nrp-pc por instalação. O /tv informa Launcher PC e a versão usada.\n\nCompatível com o comando administrativo /locksamp para exigir o launcher nas próximas conexões de PC. A exigência do APK mobile permanece separada."
 }
