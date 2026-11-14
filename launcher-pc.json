@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 24,
+  "build": 25,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build24/NOVA-Roleplay-PC-Setup-1.0.0-build24.exe",
-  "sha256": "0581749b2391b3984e67a8e11d7465b87b418acac479deac8da4de4544780fe4",
-  "sizeBytes": 126557819,
-  "notes": "Identificação do launcher oficial PC com sessão validada pelo servidor e identificador nrp-pc por instalação. O /tv informa Launcher PC e a versão usada.\n\nCompatível com o comando administrativo /locksamp para exigir o launcher nas próximas conexões de PC. A exigência do APK mobile permanece separada."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build25/NOVA-Roleplay-PC-Setup-1.0.0-build25.exe",
+  "sha256": "8a5a4763d75afd72322912f35eadbc5e5519a39daae284a9beabe5d7124fb908",
+  "sizeBytes": 126556822,
+  "notes": "Diagnóstico Windows agora inclui os registros de GTA sem resposta (AppHang) e identifica corretamente o código de exceção dos crashes APPCRASH. O log inclui a configuração de vídeo para investigar congelamentos ao alternar entre o jogo e outras janelas.\n\nMantém a identificação do launcher PC e o suporte ao /locksamp. Interface, telefone, autenticação e demais funções iguais à build 24.\n\nA Data PC 45 acrescenta tela cheia sem bordas como mitigação de compatibilidade de vídeo. O teste local com os mods carregados passou por 15 trocas de foco. Isso não determina a causa dos crashes ucrtbase/libeffil enviados por jogadores nem garante a resolução de todos os congelamentos."
 }
