@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 26,
+  "build": 27,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build26/NOVA-Roleplay-PC-Setup-1.0.0-build26.exe",
-  "sha256": "4ceb7167c5d04680760a263688b7ae31b351baf0aeba51c742e174b13023569a",
-  "sizeBytes": 126559370,
-  "notes": "V 0.26: WhatsApp com contato, chamadas, anexos, localizacao, PIX e enquetes; interface compartilhada com APK."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build27/NOVA-Roleplay-PC-Setup-1.0.0-build27.exe",
+  "sha256": "8bc107705252e5ad9e13a3d4d6dc60ca07f331ff1a4d810c87aef341d6cab9c9",
+  "sizeBytes": 126561152,
+  "notes": "V 0.27: corrige o erro “Diretório da identificação inválido.” ao preparar o jogo em pastas Windows existentes como moonloader ou Config. A validação respeita a equivalência de maiúsculas/minúsculas do Windows, sem alterar a identificação do dispositivo ou a autenticação e mantendo o bloqueio de pastas redirecionadas e destinos de arquivo inválidos."
 }
