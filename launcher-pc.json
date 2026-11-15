@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 25,
+  "build": 26,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build25/NOVA-Roleplay-PC-Setup-1.0.0-build25.exe",
-  "sha256": "8a5a4763d75afd72322912f35eadbc5e5519a39daae284a9beabe5d7124fb908",
-  "sizeBytes": 126556822,
-  "notes": "Diagnóstico Windows agora inclui os registros de GTA sem resposta (AppHang) e identifica corretamente o código de exceção dos crashes APPCRASH. O log inclui a configuração de vídeo para investigar congelamentos ao alternar entre o jogo e outras janelas.\n\nMantém a identificação do launcher PC e o suporte ao /locksamp. Interface, telefone, autenticação e demais funções iguais à build 24.\n\nA Data PC 45 acrescenta tela cheia sem bordas como mitigação de compatibilidade de vídeo. O teste local com os mods carregados passou por 15 trocas de foco. Isso não determina a causa dos crashes ucrtbase/libeffil enviados por jogadores nem garante a resolução de todos os congelamentos."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build26/NOVA-Roleplay-PC-Setup-1.0.0-build26.exe",
+  "sha256": "4ceb7167c5d04680760a263688b7ae31b351baf0aeba51c742e174b13023569a",
+  "sizeBytes": 126559370,
+  "notes": "V 0.26: WhatsApp com contato, chamadas, anexos, localizacao, PIX e enquetes; interface compartilhada com APK."
 }
