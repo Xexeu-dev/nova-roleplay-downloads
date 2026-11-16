@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 181,
+  "versionCode": 182,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build181-handling-estabilidade/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build182-streaming-rle/NOVA-ROLEPLAY.apk",
   "sizeBytes": 65539187,
-  "sha256": "ccc015f69c00bc98261446d12944e866523ae314112a6c51927a0523724bb44c",
+  "sha256": "d7753be82ec80bfbb087936d85af28634cc8270c0fbf96ce41e152e06ed4f63e",
   "mandatory": true,
-  "notes": "Data PC 53 / Android 32: Cognoscenti Blindado no Stafford 580; skin pessoal XEXEU-7 271; pintura configuravel da Bugatti; Mercedes Classe G no Savanna 567 e Audi RS3 no Sentinel 405. Uniformes policiais preservados.\n\nAceleracao dos 160 carros e motos aumentada em 30%, com as maximas configuradas preservadas. Aderencia e estabilidade em curvas ajustadas, com tratamento proprio para NRG-500 e Ferrari F1 (Bandito). Aeronaves, barcos e gravidade global preservados.\n\nPC: protecoes para acessos nulos em sombras e placas de texto encontrados nos relatorios; executavel com enderecamento ampliado em Windows 64 bits. Isso nao comprova resolver falhas independentes de driver ou todos os congelamentos.\n\nAndroid build 181 / 4.2: mesma fisica de carros e motos, monitor de entrada travada e opcao de diagnostico local/saida. Testes automatizados e compilacao para ARM32 e ARM64; sem teste fisico Android nesta rodada.",
-  "publishedAt": "2026-11-15T23:21:07.892Z",
-  "minimumVersionCode": 181,
+  "notes": "APK 182 / 4.2 — correcoes mobile de leitura e texturas.\n\nCorrigido o contrato de OS_FileRead (status e quantidade de bytes), o rastreamento do tamanho do bloco comprimido e a descompressao RLE com limites de origem/destino. Para dados validos, comparado byte a byte com os decodificadores reais ARM32 e ARM64. Buffer de caminho de abertura agora local a cada chamada. Leituras invalidas falham com o status esperado pelo GTA.\n\nEntrada em modo espectador usa streaming incremental de colisoes/IPLs sem as esperas Ensure da versao anterior. Diagnostico nativo distingue as etapas internas de streaming. Data, fotos, contas, mods e fisica do APK 181 preservados.\n\nTestes automatizados aprovados; nao houve aparelho Android disponivel para reproduzir a entrada completa. Falhas independentes de driver grafico ainda precisam de validacao no aparelho afetado.",
+  "publishedAt": "2026-11-16T00:32:13.809Z",
+  "minimumVersionCode": 182,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build181-handling-estabilidade",
+  "githubTag": "v4.2-build182-streaming-rle",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
