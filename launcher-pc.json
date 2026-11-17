@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 29,
+  "build": 30,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build29/NOVA-Roleplay-PC-Setup-1.0.0-build29.exe",
-  "sha256": "157384bbff884075032ac3c21525f34ed376374418eac0a66e348656dc569f21",
-  "sizeBytes": 126559050,
-  "notes": "Launcher PC V 0.29 — reconhecimento do launcher oficial\n\n- Corrigida a autenticação antes de o personagem e o ID local estarem disponíveis na tela de login.\n- O desafio de identificação permanece pendente enquanto o arquivo da sessão é preparado, em vez de ser descartado.\n- A sessão é emitida após preparar telefone, resolução e registro do jogo, imediatamente antes de iniciar o SA-MP.\n- Prazo de admissão ampliado para PCs com carregamento lento. Os vínculos por desafio, nick, IPv4, instalação e versão e o consumo único do ticket permanecem.\n- Sessões não confirmadas recebem orientação para reabrir o jogo pelo launcher. Clientes sem prova continuam com a tela de bloqueio.\n\nCompatível com as Datas atuais. APK e identidade persistente da instalação preservados."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build30/NOVA-Roleplay-PC-Setup-1.0.0-build30.exe",
+  "sha256": "89f1ba7555a97bfd0e306231008c3e5e0b3adc0bfc53508dec231a66a450801c",
+  "sizeBytes": 128384495,
+  "notes": "Correção de acesso oficial e atualização resiliente da Data PC."
 }
