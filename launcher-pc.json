@@ -1,9 +1,9 @@
 {
-  "schemaVersion": 1,
-  "build": 30,
-  "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build30/NOVA-Roleplay-PC-Setup-1.0.0-build30.exe",
-  "sha256": "89f1ba7555a97bfd0e306231008c3e5e0b3adc0bfc53508dec231a66a450801c",
-  "sizeBytes": 128384495,
-  "notes": "Correção de acesso oficial e atualização resiliente da Data PC."
+    "schemaVersion":  1,
+    "build":  31,
+    "version":  "1.0.0",
+    "url":  "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build31/NOVA-Roleplay-PC-Setup-1.0.0-build31.exe",
+    "sha256":  "2bd22c52fc74ffff728db4cda8b09eff9c578b710ed149c6a5217fc09a8e49f4",
+    "sizeBytes":  126629194,
+    "notes":  "O launcher PC usa uma consulta alternativa para detectar o GTA quando o tasklist do Windows falha."
 }
