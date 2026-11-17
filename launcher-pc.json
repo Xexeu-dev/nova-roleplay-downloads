@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 27,
+  "build": 28,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build27/NOVA-Roleplay-PC-Setup-1.0.0-build27.exe",
-  "sha256": "8bc107705252e5ad9e13a3d4d6dc60ca07f331ff1a4d810c87aef341d6cab9c9",
-  "sizeBytes": 126561152,
-  "notes": "V 0.27: corrige o erro “Diretório da identificação inválido.” ao preparar o jogo em pastas Windows existentes como moonloader ou Config. A validação respeita a equivalência de maiúsculas/minúsculas do Windows, sem alterar a identificação do dispositivo ou a autenticação e mantendo o bloqueio de pastas redirecionadas e destinos de arquivo inválidos."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build28/NOVA-Roleplay-PC-Setup-1.0.0-build28.exe",
+  "sha256": "e255b15dfbe21aeb5c22d2d26fff4211c5947ba8c629f426f9b38e3252c64790",
+  "sizeBytes": 126561271,
+  "notes": "APK 195 (4.2), launcher PC 28, Data PC 58 e Android 36.\n\nTelefone abre com medidas validas da tela, sem depender da resposta inicial da API; notificacoes com icones e mencoes @ no Instagram. Ajustes do cursor e VOIP durante ligacoes no PC. O APK cancela o retorno de morte do modo historia: feridos preservam a posicao, ficam deitados em pose fixa e mutados; /sos liberado com medicos em servico e /cancelarsamu permitido ferido. NPCs BOPE mantem suspeitos e aprendem segmentos de rotas observadas com persistencia limitada. Fome, sede e sono consomem 30% mais devagar. Blindagens de 200% e 600%, cameras de inspecao do tuning e protecoes de componentes, passageiros e explosoes. Mais tracao para caminhoes/motos e poses originais de pilotagem. Instalacao de Data compativel com aliases de nomes no Android 14 e suporte ao tradutor ARM do LDPlayer. Testes no GTA PC e no LDPlayer 14 com APK oficial e servidor online; sem validacao em celular fisico nem reproducao simultanea com tres ocupantes nesta rodada."
 }
