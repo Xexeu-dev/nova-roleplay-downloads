@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 196,
+  "versionCode": 197,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build196-phone-bike-final/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build197-bugatti-phone-loading/NOVA-ROLEPLAY.apk",
   "sizeBytes": 65744340,
-  "sha256": "f3a1937a6ea50d9bfef6faa9a6d65dbd449bf9b75cdc63a30bb91db736d101a5",
+  "sha256": "4a63a042593e225282022eada3e49c58cab3756166cbbd02b2e2ec33ca50fc5d",
   "mandatory": true,
-  "notes": "APK 196 (4.2), launcher PC 28, Data PC 58 e Android 37.\n\nTelefone abre com medidas validas da tela, sem depender da resposta inicial da API; notificacoes com icones e mencoes @ no Instagram. Ajustes do cursor e VOIP durante ligacoes no PC. O APK cancela o retorno de morte do modo historia: feridos preservam a posicao, ficam deitados em pose fixa e mutados; /sos liberado com medicos em servico e /cancelarsamu permitido ferido. NPCs BOPE mantem suspeitos e aprendem segmentos de rotas observadas com persistencia limitada. Fome, sede e sono consomem 30% mais devagar. Blindagens de 200% e 600%, cameras de inspecao do tuning e protecoes de componentes, passageiros e explosoes. Mais tracao para caminhoes/motos e poses originais de pilotagem. Instalacao de Data compativel com aliases de nomes no Android 14 e suporte ao tradutor ARM do LDPlayer. Testes no GTA PC e no LDPlayer 14 com APK oficial e servidor online; sem validacao em celular fisico nem reproducao simultanea com tres ocupantes nesta rodada.\n\nA configuracao de pilotagem foi aplicada tambem em SAMP/vehicles.ide, que e o arquivo realmente carregado pelo APK. Na Data modificada, o ajuste preserva os demais dados da importacao.",
-  "publishedAt": "2026-11-17T06:06:14.879Z",
-  "minimumVersionCode": 196,
+  "notes": "NOVA Roleplay 4.2 / build 197\n\n- Proteção contra o crash ao puxar a Bugatti: modelos modificados sem o frame de uma peça consultada agora retornam sem componente, preservando a consulta normal dos componentes existentes.\n- Indicador nativo de carregamento ao abrir o telefone pelo /cel. Ele aguarda a interface estar visível e o primeiro quadro ser apresentado, e é removido ao fechar o telefone.\n- Datas, mods, configurações e demais aplicativos preservados.\n\nValidação: código nativo ARM32 e ARM64 executado em emulação, com reprodução da falha original e preservação das chamadas válidas; testes Java e da detecção de tela pronta. Não houve reprodução visual da Bugatti em celular físico nesta rodada.",
+  "publishedAt": "2026-11-17T15:16:28.233Z",
+  "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build196-phone-bike-final",
+  "githubTag": "v4.2-build197-bugatti-phone-loading",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
