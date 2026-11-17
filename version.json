@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 195,
+  "versionCode": 196,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build195-phone-injury-stability/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build196-phone-bike-final/NOVA-ROLEPLAY.apk",
   "sizeBytes": 65744340,
-  "sha256": "7594f8f8c9b97efa9382d494522559baacfa3226bba8a9c80d7e931728cab085",
+  "sha256": "f3a1937a6ea50d9bfef6faa9a6d65dbd449bf9b75cdc63a30bb91db736d101a5",
   "mandatory": true,
-  "notes": "APK 195 (4.2), launcher PC 28, Data PC 58 e Android 36.\n\nTelefone abre com medidas validas da tela, sem depender da resposta inicial da API; notificacoes com icones e mencoes @ no Instagram. Ajustes do cursor e VOIP durante ligacoes no PC. O APK cancela o retorno de morte do modo historia: feridos preservam a posicao, ficam deitados em pose fixa e mutados; /sos liberado com medicos em servico e /cancelarsamu permitido ferido. NPCs BOPE mantem suspeitos e aprendem segmentos de rotas observadas com persistencia limitada. Fome, sede e sono consomem 30% mais devagar. Blindagens de 200% e 600%, cameras de inspecao do tuning e protecoes de componentes, passageiros e explosoes. Mais tracao para caminhoes/motos e poses originais de pilotagem. Instalacao de Data compativel com aliases de nomes no Android 14 e suporte ao tradutor ARM do LDPlayer. Testes no GTA PC e no LDPlayer 14 com APK oficial e servidor online; sem validacao em celular fisico nem reproducao simultanea com tres ocupantes nesta rodada.",
-  "publishedAt": "2026-11-17T05:47:28.200Z",
-  "minimumVersionCode": 195,
+  "notes": "APK 196 (4.2), launcher PC 28, Data PC 58 e Android 37.\n\nTelefone abre com medidas validas da tela, sem depender da resposta inicial da API; notificacoes com icones e mencoes @ no Instagram. Ajustes do cursor e VOIP durante ligacoes no PC. O APK cancela o retorno de morte do modo historia: feridos preservam a posicao, ficam deitados em pose fixa e mutados; /sos liberado com medicos em servico e /cancelarsamu permitido ferido. NPCs BOPE mantem suspeitos e aprendem segmentos de rotas observadas com persistencia limitada. Fome, sede e sono consomem 30% mais devagar. Blindagens de 200% e 600%, cameras de inspecao do tuning e protecoes de componentes, passageiros e explosoes. Mais tracao para caminhoes/motos e poses originais de pilotagem. Instalacao de Data compativel com aliases de nomes no Android 14 e suporte ao tradutor ARM do LDPlayer. Testes no GTA PC e no LDPlayer 14 com APK oficial e servidor online; sem validacao em celular fisico nem reproducao simultanea com tres ocupantes nesta rodada.\n\nA configuracao de pilotagem foi aplicada tambem em SAMP/vehicles.ide, que e o arquivo realmente carregado pelo APK. Na Data modificada, o ajuste preserva os demais dados da importacao.",
+  "publishedAt": "2026-11-17T06:06:14.879Z",
+  "minimumVersionCode": 196,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build195-phone-injury-stability",
+  "githubTag": "v4.2-build196-phone-bike-final",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
