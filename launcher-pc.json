@@ -1,9 +1,9 @@
 {
     "schemaVersion":  1,
-    "build":  31,
+    "build":  32,
     "version":  "1.0.0",
-    "url":  "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build31/NOVA-Roleplay-PC-Setup-1.0.0-build31.exe",
-    "sha256":  "2bd22c52fc74ffff728db4cda8b09eff9c578b710ed149c6a5217fc09a8e49f4",
-    "sizeBytes":  126629194,
-    "notes":  "O launcher PC usa uma consulta alternativa para detectar o GTA quando o tasklist do Windows falha."
+    "url":  "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build32/NOVA-Roleplay-PC-Setup-1.0.0-build32.exe",
+    "sha256":  "219366351f306b6c79327699458a4129820ea4963253a029a5d95a63337b715e",
+    "sizeBytes":  126630086,
+    "notes":  "Corrige o telefone do GTA no PC, preparando a interface nova antes de iniciar o jogo."
 }
