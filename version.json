@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 199,
+  "versionCode": 200,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build199-vehicle-audio/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 65748436,
-  "sha256": "cfe263f445712f906912a87a20e2f3a25a2120c438a4b116d656dd39d53cedcd",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build200-entrada-veiculos/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 65752532,
+  "sha256": "6dbe7761d7f44a0568e5f6ae6fa322cf7f33dc8a4f1d486e709e49114e9486f5",
   "mandatory": true,
-  "notes": "Atualiza os perfis de motor dos 77 veículos modificados. Validado no Android 14 até o login do servidor oficial.",
-  "publishedAt": "2026-11-18T05:40:40.696Z",
+  "notes": "Corrige uma falha ao calcular a entrada em um veiculo enquanto a animacao ainda carrega.",
+  "publishedAt": "2026-11-18T18:36:16.895Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build199-vehicle-audio",
+  "githubTag": "v4.2-build200-entrada-veiculos",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
