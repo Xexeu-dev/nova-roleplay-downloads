@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 198,
+  "versionCode": 199,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build198-gameplay-fixes/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build199-vehicle-audio/NOVA-ROLEPLAY.apk",
   "sizeBytes": 65748436,
-  "sha256": "d849f5014f1737e219d4fa00aca22ccb7f3ca6133ad9caf1cadbdbbed567a174",
+  "sha256": "cfe263f445712f906912a87a20e2f3a25a2120c438a4b116d656dd39d53cedcd",
   "mandatory": true,
-  "notes": "Corrige falhas ao remover componentes veiculares e ao ficar sobre objetos que saem do streaming. Centraliza a mira e ajusta a aceleração de veículos.",
-  "publishedAt": "2026-11-18T04:27:58.497Z",
+  "notes": "Atualiza os perfis de motor dos 77 veículos modificados. Validado no Android 14 até o login do servidor oficial.",
+  "publishedAt": "2026-11-18T05:40:40.696Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build198-gameplay-fixes",
+  "githubTag": "v4.2-build199-vehicle-audio",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
