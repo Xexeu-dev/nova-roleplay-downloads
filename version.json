@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 197,
+  "versionCode": 198,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build197-bugatti-phone-loading/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 65744340,
-  "sha256": "4a63a042593e225282022eada3e49c58cab3756166cbbd02b2e2ec33ca50fc5d",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build198-gameplay-fixes/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 65748436,
+  "sha256": "d849f5014f1737e219d4fa00aca22ccb7f3ca6133ad9caf1cadbdbbed567a174",
   "mandatory": true,
-  "notes": "NOVA Roleplay 4.2 / build 197\n\n- Proteção contra o crash ao puxar a Bugatti: modelos modificados sem o frame de uma peça consultada agora retornam sem componente, preservando a consulta normal dos componentes existentes.\n- Indicador nativo de carregamento ao abrir o telefone pelo /cel. Ele aguarda a interface estar visível e o primeiro quadro ser apresentado, e é removido ao fechar o telefone.\n- Datas, mods, configurações e demais aplicativos preservados.\n\nValidação: código nativo ARM32 e ARM64 executado em emulação, com reprodução da falha original e preservação das chamadas válidas; testes Java e da detecção de tela pronta. Não houve reprodução visual da Bugatti em celular físico nesta rodada.",
-  "publishedAt": "2026-11-17T15:16:28.233Z",
+  "notes": "Corrige falhas ao remover componentes veiculares e ao ficar sobre objetos que saem do streaming. Centraliza a mira e ajusta a aceleração de veículos.",
+  "publishedAt": "2026-11-18T04:27:58.497Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build197-bugatti-phone-loading",
+  "githubTag": "v4.2-build198-gameplay-fixes",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
