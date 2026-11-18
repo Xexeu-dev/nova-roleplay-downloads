@@ -1,9 +1,9 @@
 {
-    "schemaVersion":  1,
-    "build":  32,
-    "version":  "1.0.0",
-    "url":  "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build32/NOVA-Roleplay-PC-Setup-1.0.0-build32.exe",
-    "sha256":  "219366351f306b6c79327699458a4129820ea4963253a029a5d95a63337b715e",
-    "sizeBytes":  126630086,
-    "notes":  "Corrige o telefone do GTA no PC, preparando a interface nova antes de iniciar o jogo."
+  "schemaVersion": 1,
+  "build": 33,
+  "version": "1.0.0",
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build33/NOVA-Roleplay-PC-Setup-1.0.0-build33.exe",
+  "sha256": "acd128b9da6026233744fdc99dd92d04cef53b8e44167300fe08744b766eff18",
+  "sizeBytes": 128350315,
+  "notes": "Acelera a primeira instalação dos recursos do jogo baixando mais arquivos em paralelo."
 }
