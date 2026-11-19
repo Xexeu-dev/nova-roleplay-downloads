@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 36,
+  "build": 37,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build36/NOVA-Roleplay-PC-Setup-1.0.0-build36.exe",
-  "sha256": "c7c00a10f8010dacfbd5860282d7eda16d0a0689339aa990ed4b3d0905ca2514",
-  "sizeBytes": 157449958,
-  "notes": "Presenca do Discord com o novo logo da NOVA e um botao para o servidor oficial."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build37/NOVA-Roleplay-PC-Setup-1.0.0-build37.exe",
+  "sha256": "1491411847fb83060ff98106a2929643f089b54ec81165e0fa5db14085573aeb",
+  "sizeBytes": 129057604,
+  "notes": "Atalhos do telefone pelo jogo e melhorias nas chamadas de video."
 }
