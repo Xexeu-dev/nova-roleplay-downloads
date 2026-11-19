@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 34,
+  "build": 35,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build34/NOVA-Roleplay-PC-Setup-1.0.0-build34.exe",
-  "sha256": "b7ef5e0e7e0dc3ccf60944705f4ccddff784c36f012bf35439cb1b316321fb5e",
-  "sizeBytes": 156692372,
-  "notes": "Oficina NOVA em HTML no GTA. Pressione H enquanto dirige em uma oficina cadastrada."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build35/NOVA-Roleplay-PC-Setup-1.0.0-build35.exe",
+  "sha256": "f6c543cf401219a2f82b5e77997aea6c041c6ff8034bb700963b66f1ce9cc150",
+  "sizeBytes": 156692307,
+  "notes": "Corrige o cursor do telefone no GTA e seu alinhamento com os cliques."
 }
