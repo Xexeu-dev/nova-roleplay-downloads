@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 203,
+  "versionCode": 204,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build203-vehicle-physics/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 70959377,
-  "sha256": "7ee64d7abc31c90cd901fe2c735a0a125dc09b32fa31aa70c51d54984923c75c",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build204-hud-wordmark/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 71037201,
+  "sha256": "39442e050adb1d4430ffae251377366754445f327e5cc43653ff1e9a3bdc4d5d",
   "mandatory": true,
-  "notes": "Mais força em subidas e bônus progressivo de 1 km/h a cada 2 segundos na velocidade máxima.",
-  "publishedAt": "2026-11-19T15:52:08.049Z",
+  "notes": "Logo horizontal NOVA ROLEPLAY abaixo do relógio, com fundo transparente.",
+  "publishedAt": "2026-11-19T17:28:55.539Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build203-vehicle-physics",
+  "githubTag": "v4.2-build204-hud-wordmark",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
