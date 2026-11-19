@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 33,
+  "build": 34,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build33/NOVA-Roleplay-PC-Setup-1.0.0-build33.exe",
-  "sha256": "acd128b9da6026233744fdc99dd92d04cef53b8e44167300fe08744b766eff18",
-  "sizeBytes": 128350315,
-  "notes": "Acelera a primeira instalação dos recursos do jogo baixando mais arquivos em paralelo."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build34/NOVA-Roleplay-PC-Setup-1.0.0-build34.exe",
+  "sha256": "b7ef5e0e7e0dc3ccf60944705f4ccddff784c36f012bf35439cb1b316321fb5e",
+  "sizeBytes": 156692372,
+  "notes": "Oficina NOVA em HTML no GTA. Pressione H enquanto dirige em uma oficina cadastrada."
 }
