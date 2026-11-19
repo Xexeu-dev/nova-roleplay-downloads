@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 201,
+  "versionCode": 202,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build201-telefone-e-controles/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 70947089,
-  "sha256": "8f3483b8b9886b35cbee36276cc1733f73ed8d0e4f5600741e7eaa7b4017537b",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build202-data-incremental/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 70951185,
+  "sha256": "0b2167e8aa9a81aee5c32dbbea899ea48b3a4043235eb591699cc9bbead92211",
   "mandatory": true,
-  "notes": "Telefone com atalhos e notificacoes, camera ajustavel, correcoes de mira e controles.",
-  "publishedAt": "2026-11-19T05:44:59.725Z",
+  "notes": "Atualiza somente os modelos e trechos de texturas alterados quando a Data anterior esta intacta.",
+  "publishedAt": "2026-11-19T06:10:00.317Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build201-telefone-e-controles",
+  "githubTag": "v4.2-build202-data-incremental",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
