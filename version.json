@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 200,
+  "versionCode": 201,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build200-entrada-veiculos/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 65752532,
-  "sha256": "6dbe7761d7f44a0568e5f6ae6fa322cf7f33dc8a4f1d486e709e49114e9486f5",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build201-telefone-e-controles/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 70947089,
+  "sha256": "8f3483b8b9886b35cbee36276cc1733f73ed8d0e4f5600741e7eaa7b4017537b",
   "mandatory": true,
-  "notes": "Corrige uma falha ao calcular a entrada em um veiculo enquanto a animacao ainda carrega.",
-  "publishedAt": "2026-11-18T18:36:16.895Z",
+  "notes": "Telefone com atalhos e notificacoes, camera ajustavel, correcoes de mira e controles.",
+  "publishedAt": "2026-11-19T05:44:59.725Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build200-entrada-veiculos",
+  "githubTag": "v4.2-build201-telefone-e-controles",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
