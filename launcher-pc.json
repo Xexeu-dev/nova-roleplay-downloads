@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "build": 35,
+  "build": 36,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build35/NOVA-Roleplay-PC-Setup-1.0.0-build35.exe",
-  "sha256": "f6c543cf401219a2f82b5e77997aea6c041c6ff8034bb700963b66f1ce9cc150",
-  "sizeBytes": 156692307,
-  "notes": "Corrige o cursor do telefone no GTA e seu alinhamento com os cliques."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build36/NOVA-Roleplay-PC-Setup-1.0.0-build36.exe",
+  "sha256": "c7c00a10f8010dacfbd5860282d7eda16d0a0689339aa990ed4b3d0905ca2514",
+  "sizeBytes": 157449958,
+  "notes": "Presenca do Discord com o novo logo da NOVA e um botao para o servidor oficial."
 }
