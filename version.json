@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 204,
+  "versionCode": 205,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build204-hud-wordmark/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 71037201,
-  "sha256": "39442e050adb1d4430ffae251377366754445f327e5cc43653ff1e9a3bdc4d5d",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build205-native-crosshair/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 71029009,
+  "sha256": "359354454a963d4c6a923455f7efba85c38a07511f320cfa77652b575a01e620",
   "mandatory": true,
-  "notes": "Logo horizontal NOVA ROLEPLAY abaixo do relógio, com fundo transparente.",
-  "publishedAt": "2026-11-19T17:28:55.539Z",
+  "notes": "Restaura o ponto de mira do GTA e mantém a textura da NOVA.",
+  "publishedAt": "2026-11-20T19:16:50.508Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build204-hud-wordmark",
+  "githubTag": "v4.2-build205-native-crosshair",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
