@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 38,
+  "build": 39,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build38/NOVA-Roleplay-PC-Setup-1.0.0-build38.exe",
-  "sha256": "33c44f9f54bbf7b62b6f42cc4b2f9a2bdb710efa255a5bd26e6d47a1f861338c",
-  "sizeBytes": 127471137,
-  "notes": "Restabelece o envio de relatorios de falha do GTA. Se o arquivo do Windows Error Reporting estiver ausente, consulta tambem o log de aplicativos do Windows. A fila tenta novamente apos perda de conexao.",
-  "publishedAt": "2026-11-20T22:56:13.467Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build39/NOVA-Roleplay-PC-Setup-1.0.0-build39.exe",
+  "sha256": "7cc39d8ef2eda55c6d6e9ff271e3ace27a22e78fc27258e8b2d1075c2484e296",
+  "sizeBytes": 127472072,
+  "notes": "Relatorios automaticos para o GTA. Usa os registros de falha do Windows e tambem detecta encerramentos inesperados apos a inicializacao do jogo. Saidas normais nao geram relatorio.",
+  "publishedAt": "2026-11-20T23:22:54.431Z"
 }
