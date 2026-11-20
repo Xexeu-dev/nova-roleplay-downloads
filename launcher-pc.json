@@ -1,9 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 37,
+  "build": 38,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build37/NOVA-Roleplay-PC-Setup-1.0.0-build37.exe",
-  "sha256": "1491411847fb83060ff98106a2929643f089b54ec81165e0fa5db14085573aeb",
-  "sizeBytes": 129057604,
-  "notes": "Atalhos do telefone pelo jogo e melhorias nas chamadas de video."
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build38/NOVA-Roleplay-PC-Setup-1.0.0-build38.exe",
+  "sha256": "33c44f9f54bbf7b62b6f42cc4b2f9a2bdb710efa255a5bd26e6d47a1f861338c",
+  "sizeBytes": 127471137,
+  "notes": "Restabelece o envio de relatorios de falha do GTA. Se o arquivo do Windows Error Reporting estiver ausente, consulta tambem o log de aplicativos do Windows. A fila tenta novamente apos perda de conexao.",
+  "publishedAt": "2026-11-20T22:56:13.467Z"
 }
