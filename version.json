@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 213,
+  "versionCode": 214,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build213/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 72585350,
-  "sha256": "d086f3e5b1cf57b8b79086ea562f9d4053921296fdba943f76b25cf3a370cf38",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build214/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 72589528,
+  "sha256": "c7ce0e2db00556c83c89ea7c8d45e70120fe37f4c890138fdacff72ac8e61a1f",
   "mandatory": false,
-  "notes": "Mansao com pilar vermelho, arco branco e vidros fume no Android.",
-  "publishedAt": "2026-11-21T08:23:06.609Z",
+  "notes": "Corrige o fechamento ao chegar à mansão ou à garagem e a entrada em veículos pelo motorista e pelos passageiros no Android de 32 e 64 bits.",
+  "publishedAt": "2026-11-21T10:31:49.342Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build213",
+  "githubTag": "v4.2-build214",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
