@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 214,
+  "versionCode": 215,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build214/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build215/NOVA-ROLEPLAY.apk",
   "sizeBytes": 72589528,
-  "sha256": "c7ce0e2db00556c83c89ea7c8d45e70120fe37f4c890138fdacff72ac8e61a1f",
+  "sha256": "85cd29efaf744a32afd4c2a902fd826c40e01a54a46cce029c231278a6c9f3f6",
   "mandatory": false,
-  "notes": "Corrige o fechamento ao chegar à mansão ou à garagem e a entrada em veículos pelo motorista e pelos passageiros no Android de 32 e 64 bits.",
-  "publishedAt": "2026-11-21T10:31:49.342Z",
+  "notes": "Restaura as animações de entrada e saída em carros e motos, com assentos corretos para motorista e passageiros no Android de 32 e 64 bits.",
+  "publishedAt": "2026-11-21T13:44:00.935Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build214",
+  "githubTag": "v4.2-build215",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
