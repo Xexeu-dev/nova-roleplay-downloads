@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 212,
+  "versionCode": 213,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build212/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build213/NOVA-ROLEPLAY.apk",
   "sizeBytes": 72585350,
-  "sha256": "7dfbf7bc025715ee3b0e5af631c94d9d8d7bb0e1afde6e9cde221e484aa64c0c",
+  "sha256": "d086f3e5b1cf57b8b79086ea562f9d4053921296fdba943f76b25cf3a370cf38",
   "mandatory": false,
-  "notes": "Correcao dos assentos P2, P3 e P4 em 32/64 bits e novos recursos da mansao e do telefone.",
-  "publishedAt": "2026-11-21T08:00:00.488Z",
+  "notes": "Mansao com pilar vermelho, arco branco e vidros fume no Android.",
+  "publishedAt": "2026-11-21T08:23:06.609Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build212",
+  "githubTag": "v4.2-build213",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
