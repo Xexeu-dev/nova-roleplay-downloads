@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 215,
+  "versionCode": 216,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build215/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build216/NOVA-ROLEPLAY.apk",
   "sizeBytes": 72589528,
-  "sha256": "85cd29efaf744a32afd4c2a902fd826c40e01a54a46cce029c231278a6c9f3f6",
+  "sha256": "98503f675239d5521e379986dd840c854436c148186d427c403d6ece4b0dcae9",
   "mandatory": false,
-  "notes": "Restaura as animações de entrada e saída em carros e motos, com assentos corretos para motorista e passageiros no Android de 32 e 64 bits.",
-  "publishedAt": "2026-11-21T13:44:00.935Z",
+  "notes": "Atualiza o APK pelo próprio aplicativo e habilita a troca de assentos no mesmo veículo no Android 32 e 64 bits.",
+  "publishedAt": "2026-11-21T15:54:57.119Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build215",
+  "githubTag": "v4.2-build216",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
