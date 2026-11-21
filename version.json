@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 210,
+  "versionCode": 211,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build210/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 72151874,
-  "sha256": "ed45a4dbd80a27509853b2a156d5ee3db6d1113858c27064c1f4e2cc5c37a0d7",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build211/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 71504706,
+  "sha256": "0734af9e5e85d399b7076eeea1d036a24d2dbd5a94b5a1cc2179966642d4292f",
   "mandatory": false,
-  "notes": "Correcao da entrada do motorista em carros modificados, perfil leve do Galaxy A23 e mansao do streamer.",
-  "publishedAt": "2026-11-21T04:02:45.718Z",
+  "notes": "Mansao do streamer com porta deslizante e vidros cinza translucidos.",
+  "publishedAt": "2026-11-21T05:26:07.305Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build210",
+  "githubTag": "v4.2-build211",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
