@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 40,
+  "build": 41,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build40/NOVA-Roleplay-PC-Setup-1.0.0-build40.exe",
-  "sha256": "cf7ac7761bc8b1b71ba1708ad1971baf120670800f7fbbe8a1ac645915312647",
-  "sizeBytes": 127472025,
-  "notes": "Mansoes, Bluetooth no telefone e investimentos com o saldo da cidade.",
-  "publishedAt": "2026-11-21T08:01:44.072Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build41/NOVA-Roleplay-PC-Setup-1.0.0-build41.exe",
+  "sha256": "498a19557d32f83cace699c3b8e416f97994dc82f213b2b6df325b0a58ce8a45",
+  "sizeBytes": 127474379,
+  "notes": "O launcher retoma o download quando a conexão é interrompida. Se o problema persistir, use o link oficial no navegador.",
+  "publishedAt": "2026-11-22T00:46:08.697Z"
 }
