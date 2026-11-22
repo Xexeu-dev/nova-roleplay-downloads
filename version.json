@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 220,
+  "versionCode": 221,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build220/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 72626631,
-  "sha256": "a61977d950da48783cd90481a23bd418c2e5130f485999a56bda0be520f4bcfd",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build221/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 66363818,
+  "sha256": "1a480707c1d1d2ea0fa97800a2027454893859d0eb7d7b88759ba6718ee33c95",
   "mandatory": false,
-  "notes": "Corrige cliques do Mobilador e restaura animacoes e aproximacao das portas originais do GTA, preservando mods e velocidade dos carros.",
-  "publishedAt": "2026-11-22T16:09:56.131Z",
+  "notes": "Corrige a escolha da porta e do banco livre para passageiros, libera movimento lateral ao mirar e evita o crash da tela Social Club no multiplayer em 32 e 64 bits. Videochamada recebe convites e permite movimentacao com painel flutuante. Mantem mods e velocidades.",
+  "publishedAt": "2026-11-22T19:19:08.489Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build220",
+  "githubTag": "v4.2-build221",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
