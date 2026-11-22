@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 221,
+  "versionCode": 228,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build221/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 66363818,
-  "sha256": "1a480707c1d1d2ea0fa97800a2027454893859d0eb7d7b88759ba6718ee33c95",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build228/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 66367914,
+  "sha256": "98461abab6f663636c73c55cb6db2adb29ce2a506539393d3bbd5f5f6f1f0a9e",
   "mandatory": false,
-  "notes": "Corrige a escolha da porta e do banco livre para passageiros, libera movimento lateral ao mirar e evita o crash da tela Social Club no multiplayer em 32 e 64 bits. Videochamada recebe convites e permite movimentacao com painel flutuante. Mantem mods e velocidades.",
-  "publishedAt": "2026-11-22T19:19:08.489Z",
+  "notes": "Melhora o FPS ao evitar consultas repetidas da funcao grafica por comando e atualizar os nucleos disponiveis ao motor. Restaura os controles de Graficos no SAMP CONFIG original, mantendo a protecao contra crash do fundo. Preserva mods, velocidades e o caminho de entrada nos veiculos da build 225. Compilacao 32/64 bits; validacao em aparelho com motor de 32 bits. A entrada de passageiros no motor de 64 bits ainda esta em investigacao.",
+  "publishedAt": "2026-11-22T22:56:49.073Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build221",
+  "githubTag": "v4.2-build228",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
