@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 218,
+  "versionCode": 219,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build218/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build219/NOVA-ROLEPLAY.apk",
   "sizeBytes": 72589528,
-  "sha256": "616303620cacf4c77c9464c7be30cfe5c62f5beaf67b4d2e53f502a2b86c7ae6",
+  "sha256": "1a0e4085453e67bf4983de7b9b2537d887f39a170786a1b1e012ecd98a44e302",
   "mandatory": false,
-  "notes": "Restaura os grupos originais de animação de moto nas Datas importadas e ajusta a aproximação à porta dianteira direita.",
-  "publishedAt": "2026-11-22T02:13:01.350Z",
+  "notes": "Corrige a tarefa de entrada de passageiros, mostra H/Y/N no painel recolhido e encaminha teclado físico do Mobilador.",
+  "publishedAt": "2026-11-22T06:09:10.844Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build218",
+  "githubTag": "v4.2-build219",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
