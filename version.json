@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 219,
+  "versionCode": 220,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build219/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 72589528,
-  "sha256": "1a0e4085453e67bf4983de7b9b2537d887f39a170786a1b1e012ecd98a44e302",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build220/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 72626631,
+  "sha256": "a61977d950da48783cd90481a23bd418c2e5130f485999a56bda0be520f4bcfd",
   "mandatory": false,
-  "notes": "Corrige a tarefa de entrada de passageiros, mostra H/Y/N no painel recolhido e encaminha teclado físico do Mobilador.",
-  "publishedAt": "2026-11-22T06:09:10.844Z",
+  "notes": "Corrige cliques do Mobilador e restaura animacoes e aproximacao das portas originais do GTA, preservando mods e velocidade dos carros.",
+  "publishedAt": "2026-11-22T16:09:56.131Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build219",
+  "githubTag": "v4.2-build220",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
