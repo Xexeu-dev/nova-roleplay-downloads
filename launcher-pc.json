@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 41,
+  "build": 42,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build41/NOVA-Roleplay-PC-Setup-1.0.0-build41.exe",
-  "sha256": "498a19557d32f83cace699c3b8e416f97994dc82f213b2b6df325b0a58ce8a45",
-  "sizeBytes": 127474379,
-  "notes": "O launcher retoma o download quando a conexão é interrompida. Se o problema persistir, use o link oficial no navegador.",
-  "publishedAt": "2026-11-22T00:46:08.697Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build42/NOVA-Roleplay-PC-Setup-1.0.0-build42.exe",
+  "sha256": "7a78dae63433576f1205a5792793f223b6aca2728a27206fd2e59027d18f33b1",
+  "sizeBytes": 127474948,
+  "notes": "Ao clicar em Jogar, o launcher retoma o download da Data se a conexão cair e valida os arquivos antes de abrir o GTA.",
+  "publishedAt": "2026-11-22T02:19:56.422Z"
 }
