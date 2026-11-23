@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 239,
+  "versionCode": 240,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build239/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 73762189,
-  "sha256": "40aec1dbf3909f119bc4319b35fc6721c20ef97e3f947b36043f91d10840db6e",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build240/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 73766285,
+  "sha256": "8cae6171a1e31db443135bbd4b6ca0c75559ebd4aabbc13caa4ae59ad7ef03f3",
   "mandatory": false,
-  "notes": "Corrigida a falha ao criar a pasta de atualizacao da DATA. O APK verifica gravacao e usa armazenamento interno quando o externo esta indisponivel, sem apagar a DATA instalada. Correcao comum a ARM32 e ARM64; motores GTA/SA-MP e entrada nos carros preservados.",
-  "publishedAt": "2026-11-23T19:41:19.046Z",
+  "notes": "Corrigida a velocidade de deslocamento ao mirar e atirar em ARM32 e ARM64. Preservados os tempos originais das animacoes, dano e precisao; corrigido acesso ao nivel de habilidade inexistente do rifle. Botao do VOIP centralizado enquanto o telefone esta aberto, com restauracao da posicao configurada ao fechar. Motores GTA e rotinas de entrada nos carros preservados. Validacao fisica pelo jogador ainda pendente.",
+  "publishedAt": "2026-11-23T22:12:13.144Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build239",
+  "githubTag": "v4.2-build240",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
