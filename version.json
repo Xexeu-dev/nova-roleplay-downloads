@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 228,
+  "versionCode": 229,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build228/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build229/NOVA-ROLEPLAY.apk",
   "sizeBytes": 66367914,
-  "sha256": "98461abab6f663636c73c55cb6db2adb29ce2a506539393d3bbd5f5f6f1f0a9e",
+  "sha256": "a9b70395053b86e37cc523c29e6a84f9da551605c3e8e989d900c09d55af3d91",
   "mandatory": false,
-  "notes": "Melhora o FPS ao evitar consultas repetidas da funcao grafica por comando e atualizar os nucleos disponiveis ao motor. Restaura os controles de Graficos no SAMP CONFIG original, mantendo a protecao contra crash do fundo. Preserva mods, velocidades e o caminho de entrada nos veiculos da build 225. Compilacao 32/64 bits; validacao em aparelho com motor de 32 bits. A entrada de passageiros no motor de 64 bits ainda esta em investigacao.",
-  "publishedAt": "2026-11-22T22:56:49.073Z",
+  "notes": "Corrige a entrada em veiculos no motor de 64 bits ao validar corretamente os ponteiros marcados do Android usados no calculo da animacao. Mantem as animacoes originais de abrir a porta e sentar, os mods, as velocidades, as melhorias de FPS e o menu grafico original da build 228. Bibliotecas de 32 e 64 bits incluidas. Mesmo APK da build 229 de teste aprovada.",
+  "publishedAt": "2026-11-23T01:17:13.826Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build228",
+  "githubTag": "v4.2-build229",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
