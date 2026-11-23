@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 48,
+  "build": 49,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build48/NOVA-Roleplay-PC-Setup-1.0.0-build48.exe",
-  "sha256": "17c375da87e5578fa10554ad36927ace7419ead0a39b9efdf95d0e6697e02212",
-  "sizeBytes": 128908744,
-  "notes": "Logo atual da NOVA no cartao de atividade do Discord. Mantem nick, ID fixo, cidade, jogadores online e tempo de sessao. Motores, entrada nos carros, cassino e demais correcoes preservados.",
-  "publishedAt": "2026-11-23T17:18:24.930Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build49/NOVA-Roleplay-PC-Setup-1.0.0-build49.exe",
+  "sha256": "8478bd699c1ac7bdcadd6f02a22fb93edeec1b65e5e9f0d6e0e91909273e33ed",
+  "sizeBytes": 128914763,
+  "notes": "Audio local da JBL, veiculos e telefone, com alcance, direcao e sincronizacao. A musica continua ao guardar o telefone e portas/vidros/porta-malas alteram o som. Demais sistemas e mods preservados.",
+  "publishedAt": "2026-11-23T23:48:45.079Z"
 }
