@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 47,
+  "build": 48,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build47/NOVA-Roleplay-PC-Setup-1.0.0-build47.exe",
-  "sha256": "2d721de67d690ad43240d4882df116ca8fdf5b4caf915915d848b713d9916d38",
-  "sizeBytes": 127483281,
-  "notes": "Tigrinho com novo icone, visual, grade 3x3, cinco linhas, WILD, repeticoes, premio x10, giro turbo e automatico. Cassino com roleta, blackjack, poker, bacara e crash integrados ao servidor; fichas e caixa persistentes. Truco com bot e amigos corrigido. Xadrez multiplayer e contra o computador. Praca de Los Santos com piso escuro sem sobreposicoes e letreiro azul escuro com bordas pretas mais largas. Mantem as correcoes dos carros e da minigun.",
-  "publishedAt": "2026-11-23T15:31:59.152Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build48/NOVA-Roleplay-PC-Setup-1.0.0-build48.exe",
+  "sha256": "17c375da87e5578fa10554ad36927ace7419ead0a39b9efdf95d0e6697e02212",
+  "sizeBytes": 128908744,
+  "notes": "Logo atual da NOVA no cartao de atividade do Discord. Mantem nick, ID fixo, cidade, jogadores online e tempo de sessao. Motores, entrada nos carros, cassino e demais correcoes preservados.",
+  "publishedAt": "2026-11-23T17:18:24.930Z"
 }
