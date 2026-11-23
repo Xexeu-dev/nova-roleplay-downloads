@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 229,
+  "versionCode": 230,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build229/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 66367914,
-  "sha256": "a9b70395053b86e37cc523c29e6a84f9da551605c3e8e989d900c09d55af3d91",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build230/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 67411797,
+  "sha256": "2fdab884e29787951f2710b52fdb53c38a09b92e5b533122a88f1eb3f3d62cd2",
   "mandatory": false,
-  "notes": "Corrige a entrada em veiculos no motor de 64 bits ao validar corretamente os ponteiros marcados do Android usados no calculo da animacao. Mantem as animacoes originais de abrir a porta e sentar, os mods, as velocidades, as melhorias de FPS e o menu grafico original da build 228. Bibliotecas de 32 e 64 bits incluidas. Mesmo APK da build 229 de teste aprovada.",
-  "publishedAt": "2026-11-23T01:17:13.826Z",
+  "notes": "Novo /tunning com previa, compra, cancelamento, paleta, pecas, rodas, nitro, turbo, neon, texto, cinco acessorios e extras. GPS com rota vermelha fina e setas azul-claro nas ruas. Login prioriza a ultima posicao salva e /continuar preserva seu ponto de retorno. Videochamadas e notificacoes corrigem a comparacao de horario; microfone Android integrado ao VOIP. Notificacoes exibem o topo do telefone no canto inferior direito, contato e mensagem, incluindo IMAGEM/AUDIO/VIDEO. Caveirao paga R$ 30.000 sujo no desmanche. Mantidas as correcoes de entrada nos carros e FPS, mods e velocidades. Android 32 e 64 bits.",
+  "publishedAt": "2026-11-23T03:35:27.763Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build229",
+  "githubTag": "v4.2-build230",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
