@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 43,
+  "build": 44,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build43/NOVA-Roleplay-PC-Setup-1.0.0-build43.exe",
-  "sha256": "84bc85a86b497b5243c50d922f7dc719ab42bd93976383fe686ad6c00d23a8e2",
-  "sizeBytes": 127475250,
-  "notes": "Videochamadas recebem convites no telefone e permitem andar e correr durante a chamada. F10 alterna o cursor para usar o telefone. Mantem a retomada de downloads e a correcao do erro terminated.",
-  "publishedAt": "2026-11-22T19:34:15.024Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build44/NOVA-Roleplay-PC-Setup-1.0.0-build44.exe",
+  "sha256": "36e895d753efcdd810f6e1ea896cb8a5531868aaeb320d676b93a7c6415d41f6",
+  "sizeBytes": 127476837,
+  "notes": "Videochamadas com convites e imagens, protecao contra cancelamento por resposta atrasada e notificacoes completas. GPS e tuning novos chegam pela Data PC 79. F10 alterna o cursor na chamada. Mantem o download com retomada e as correcoes de mira e terminated.",
+  "publishedAt": "2026-11-23T03:36:29.917Z"
 }
