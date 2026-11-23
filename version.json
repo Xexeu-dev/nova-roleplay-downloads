@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 240,
+  "versionCode": 241,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build240/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 73766285,
-  "sha256": "8cae6171a1e31db443135bbd4b6ca0c75559ebd4aabbc13caa4ae59ad7ef03f3",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build241/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 74843296,
+  "sha256": "42dc1976bea210511bc8e6bd04cacebeaf5a381a20aba26e4451f466073cb943",
   "mandatory": false,
-  "notes": "Corrigida a velocidade de deslocamento ao mirar e atirar em ARM32 e ARM64. Preservados os tempos originais das animacoes, dano e precisao; corrigido acesso ao nivel de habilidade inexistente do rifle. Botao do VOIP centralizado enquanto o telefone esta aberto, com restauracao da posicao configurada ao fechar. Motores GTA e rotinas de entrada nos carros preservados. Validacao fisica pelo jogador ainda pendente.",
-  "publishedAt": "2026-11-23T22:12:13.144Z",
+  "notes": "Audio local compartilhado da JBL, radio dos veiculos e telefone: alcance, direcao, sincronizacao da faixa e efeito de portas/vidros/porta-malas. Musica continua ao guardar o telefone. Mantidas as correcoes da mira e VOIP da build240; motores GTA e entrada nos carros preservados. Verificacao fisica ainda pendente.",
+  "publishedAt": "2026-11-23T23:51:59.023Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build240",
+  "githubTag": "v4.2-build241",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
