@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 234,
+  "versionCode": 236,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build234/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 67424576,
-  "sha256": "437c535002476ed5d834cd680dfa9ac579d7c36694495343d04677845e7f6ffb",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build236/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 66384789,
+  "sha256": "22e5ba470ce3b729009f29393e9e2e5ca643f71639f51af0276993c54e25e1f1",
   "mandatory": false,
-  "notes": "Desmanche de Caveiroes dos NPCs BOPE permitido, mantendo carros das organizacoes bloqueados. Desmanche comum transporta rodas, portas e motor nas maos ate a descarga; desmanche PM continua sem transporte. Calculadora HTML /cac. GPS libera o mouse para a camera. Prisao dos NPCs limitada a 10 minutos. Tuning ampliado e legivel, com editor de acessorios por setas, rotacao e tamanho. Vidros do Chevette em fume claro. Praca normal de LS restaurada; nova praca de SF. Halloween, aboboras e tickets encerrados. R1 com freio 50% mais forte e estabilidade; Caveirao com aceleracao 40% maior. ARM32/ARM64; entrada nos carros preservada.",
-  "publishedAt": "2026-11-23T08:23:36.444Z",
+  "notes": "Tigrinho com novo icone, visual, grade 3x3, cinco linhas, WILD, repeticoes, premio x10, giro turbo e automatico. Cassino com roleta, blackjack, poker, bacara e crash integrados ao servidor; fichas e caixa persistentes. Truco com bot e amigos corrigido. Xadrez multiplayer e contra o computador. Praca de Los Santos com piso escuro sem sobreposicoes e letreiro azul escuro com bordas pretas mais largas. Mantem as correcoes dos carros e da minigun.",
+  "publishedAt": "2026-11-23T15:37:26.299Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build234",
+  "githubTag": "v4.2-build236",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
