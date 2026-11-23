@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 46,
+  "build": 47,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build46/NOVA-Roleplay-PC-Setup-1.0.0-build46.exe",
-  "sha256": "3a184d2d9f2e3c3d4fddf9feae7781bc9b4f59b6cb6688207c4bdd8ac3d87f4a",
-  "sizeBytes": 127481038,
-  "notes": "Calculadora HTML no /cac, mouse do GPS liberado e suporte aos novos controles de tamanho dos acessorios. Data PC83 inclui vidro fume do Chevette e ajustes da R1/Caveirao. Preserva o telefone, videochamadas, notificacoes e as correcoes de entrada nos carros.",
-  "publishedAt": "2026-11-23T08:21:47.709Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build47/NOVA-Roleplay-PC-Setup-1.0.0-build47.exe",
+  "sha256": "2d721de67d690ad43240d4882df116ca8fdf5b4caf915915d848b713d9916d38",
+  "sizeBytes": 127483281,
+  "notes": "Tigrinho com novo icone, visual, grade 3x3, cinco linhas, WILD, repeticoes, premio x10, giro turbo e automatico. Cassino com roleta, blackjack, poker, bacara e crash integrados ao servidor; fichas e caixa persistentes. Truco com bot e amigos corrigido. Xadrez multiplayer e contra o computador. Praca de Los Santos com piso escuro sem sobreposicoes e letreiro azul escuro com bordas pretas mais largas. Mantem as correcoes dos carros e da minigun.",
+  "publishedAt": "2026-11-23T15:31:59.152Z"
 }
