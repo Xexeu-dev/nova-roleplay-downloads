@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 237,
+  "versionCode": 238,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build237/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 73417983,
-  "sha256": "4ff0e50c317c0ac85d07099297471fd06eb4b467142faf0254dcb92ea8b8e00e",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build238/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 73762189,
+  "sha256": "f6f94fab997e2e2b498280139bd445bd5e80a0f75d8ada404a15d399639d80cb",
   "mandatory": false,
-  "notes": "Atividade no Discord para Android 32 e 64 bits, igual ao PC: NOVA ROLEPLAY, logo atual, nick e ID fixo confirmados pelo servidor, cidade, jogadores online e tempo de sessao. Opcao para desativar nas configuracoes do launcher e Menu do APK. SDK oficial sem senha ou token do Discord. Motores originais e correcoes de entrada nos carros preservados.",
-  "publishedAt": "2026-11-23T17:36:38.846Z",
+  "notes": "Corrigida a falha ao tocar em Jogar: biblioteca de audio BASS empacotada em ARM32 e ARM64. Verificacao automatica de bibliotecas no APK. Motores GTA e SA-MP identicos a build 237, preservando a entrada nos veiculos e o Discord.",
+  "publishedAt": "2026-11-23T17:58:36.735Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build237",
+  "githubTag": "v4.2-build238",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
