@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 45,
+  "build": 46,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build45/NOVA-Roleplay-PC-Setup-1.0.0-build45.exe",
-  "sha256": "1d371872212031b1d27b6769ae6a0f9b3b741e24153d6ee9898582080574c4e9",
-  "sizeBytes": 127478863,
-  "notes": "Videochamadas com convites e imagens, protecao contra cancelamento por resposta atrasada e notificacoes completas. GPS e tuning novos chegam pela Data PC 80. F10 alterna o cursor na chamada. Mantem o download com retomada e as correcoes de mira e terminated.",
-  "publishedAt": "2026-11-23T03:53:46.742Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build46/NOVA-Roleplay-PC-Setup-1.0.0-build46.exe",
+  "sha256": "3a184d2d9f2e3c3d4fddf9feae7781bc9b4f59b6cb6688207c4bdd8ac3d87f4a",
+  "sizeBytes": 127481038,
+  "notes": "Calculadora HTML no /cac, mouse do GPS liberado e suporte aos novos controles de tamanho dos acessorios. Data PC83 inclui vidro fume do Chevette e ajustes da R1/Caveirao. Preserva o telefone, videochamadas, notificacoes e as correcoes de entrada nos carros.",
+  "publishedAt": "2026-11-23T08:21:47.709Z"
 }
