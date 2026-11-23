@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 236,
+  "versionCode": 237,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build236/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 66384789,
-  "sha256": "22e5ba470ce3b729009f29393e9e2e5ca643f71639f51af0276993c54e25e1f1",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build237/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 73417983,
+  "sha256": "4ff0e50c317c0ac85d07099297471fd06eb4b467142faf0254dcb92ea8b8e00e",
   "mandatory": false,
-  "notes": "Tigrinho com novo icone, visual, grade 3x3, cinco linhas, WILD, repeticoes, premio x10, giro turbo e automatico. Cassino com roleta, blackjack, poker, bacara e crash integrados ao servidor; fichas e caixa persistentes. Truco com bot e amigos corrigido. Xadrez multiplayer e contra o computador. Praca de Los Santos com piso escuro sem sobreposicoes e letreiro azul escuro com bordas pretas mais largas. Mantem as correcoes dos carros e da minigun.",
-  "publishedAt": "2026-11-23T15:37:26.299Z",
+  "notes": "Atividade no Discord para Android 32 e 64 bits, igual ao PC: NOVA ROLEPLAY, logo atual, nick e ID fixo confirmados pelo servidor, cidade, jogadores online e tempo de sessao. Opcao para desativar nas configuracoes do launcher e Menu do APK. SDK oficial sem senha ou token do Discord. Motores originais e correcoes de entrada nos carros preservados.",
+  "publishedAt": "2026-11-23T17:36:38.846Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build236",
+  "githubTag": "v4.2-build237",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
