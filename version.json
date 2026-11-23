@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 238,
+  "versionCode": 239,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build238/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build239/NOVA-ROLEPLAY.apk",
   "sizeBytes": 73762189,
-  "sha256": "f6f94fab997e2e2b498280139bd445bd5e80a0f75d8ada404a15d399639d80cb",
+  "sha256": "40aec1dbf3909f119bc4319b35fc6721c20ef97e3f947b36043f91d10840db6e",
   "mandatory": false,
-  "notes": "Corrigida a falha ao tocar em Jogar: biblioteca de audio BASS empacotada em ARM32 e ARM64. Verificacao automatica de bibliotecas no APK. Motores GTA e SA-MP identicos a build 237, preservando a entrada nos veiculos e o Discord.",
-  "publishedAt": "2026-11-23T17:58:36.735Z",
+  "notes": "Corrigida a falha ao criar a pasta de atualizacao da DATA. O APK verifica gravacao e usa armazenamento interno quando o externo esta indisponivel, sem apagar a DATA instalada. Correcao comum a ARM32 e ARM64; motores GTA/SA-MP e entrada nos carros preservados.",
+  "publishedAt": "2026-11-23T19:41:19.046Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build238",
+  "githubTag": "v4.2-build239",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
