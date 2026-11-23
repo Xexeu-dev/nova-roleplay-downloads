@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 232,
+  "versionCode": 233,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build232/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build233/NOVA-ROLEPLAY.apk",
   "sizeBytes": 67415893,
-  "sha256": "933d93a162d5c253ad2c7c7960888bd07cce771fefb58c5aef142b7dca68d89c",
+  "sha256": "2353309714e41b0a4258fe617f485f5bb4e628a67286ae2bbdc6ede2aa520ee8",
   "mandatory": false,
   "notes": "Desmanche por pecas: rodas 20s, portas 10s e motor 30s; reserva exclusiva por carro e jogador; carros de org bloqueados e placas nos carros de rua e Caveiroes. Pagamento de 30% da conce, Caveirao R$ 30 mil sujos. Calculadora /cac. Ajustes de strafe, mira e sincronizacao dos jogadores nas arquiteturas ARM32 e ARM64. Alertas BOPE para lockpick e desmanche de Caveirao. Areas 0,10,1,8 exclusivas de gangsters; cores das orgs 24 e 30 trocadas. Preservadas a entrada nos carros, os mods e as velocidades.",
-  "publishedAt": "2026-11-23T06:46:39.329Z",
+  "publishedAt": "2026-11-23T06:59:29.706Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build232",
+  "githubTag": "v4.2-build233",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
