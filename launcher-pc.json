@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 53,
+  "build": 54,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build53/NOVA-Roleplay-PC-Setup-1.0.0-build53.exe",
-  "sha256": "14dd0ce7d17de58a24a815351f650720e569879e8a26f663fee181d7024827fd",
-  "sizeBytes": 128917790,
-  "notes": "Telefone atualizado por eventos: conversas e chamadas ociosas deixam de consultar repetidamente a API. Discord privado encaminha os eventos ao servidor com recuperacao de entrega. Saldos, historico, midias, motores e entrada nos carros preservados.",
-  "publishedAt": "2026-11-24T17:24:51.293Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build54/NOVA-Roleplay-PC-Setup-1.0.0-build54.exe",
+  "sha256": "e0886db974d3bd85faf723b1cf1d5af5858f2f5db73e5548e2fbc61b76995c27",
+  "sizeBytes": 128916832,
+  "notes": "Launcher PC passa a consultar as atualizacoes no site oficial. Download direto na pagina Como jogar, com verificacao SHA-256 e preservacao do telefone e dos arquivos do jogo.",
+  "publishedAt": "2026-11-24T18:19:15.683Z"
 }
