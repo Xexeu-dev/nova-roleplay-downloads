@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 247,
+  "versionCode": 248,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build247/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 80278043,
-  "sha256": "0626ab5fc66e18a630e2cad5f3de94663f216f63a2355636f2b0d23454575fcd",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build248/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 80348120,
+  "sha256": "33a8319712b7d9ae2811102161cfb210ab40c34c7f45360c9db49f1469c7a17e",
   "mandatory": false,
-  "notes": "Crash inicia em 0,10x, sobe gradualmente e permite perda antes de 1x. Retorno e lucro separados, pagamentos validados pelo servidor. Atualizacoes consultadas pelo site oficial. Motores e carros preservados.",
-  "publishedAt": "2026-11-24T18:38:27.095Z",
+  "notes": "Porta-malas em HTML, em paisagem, com 20 itens por pagina e controles de quantidade. Peso e transferencias validados pelo servidor. Motores ARM32/ARM64 e telefone preservados.",
+  "publishedAt": "2026-11-24T23:22:00.482Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build247",
+  "githubTag": "v4.2-build248",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
