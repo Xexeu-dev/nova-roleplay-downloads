@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 52,
+  "build": 53,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build52/NOVA-Roleplay-PC-Setup-1.0.0-build52.exe",
-  "sha256": "bc60ab74c4697456d2644bf8dbcf7e6ad87e2505768c18bc04f6c6330e64283f",
-  "sizeBytes": 128918212,
-  "notes": "Corrigida consulta de saldos dos investimentos e Tigrinho: consultas simultaneas, repeticao limitada de leituras recusadas e aviso de indisponibilidade sem mostrar saldo zero. Saldos, posicoes e historico preservados. Nenhuma recarga ou estorno artificial.",
-  "publishedAt": "2026-11-24T05:47:55.821Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build53/NOVA-Roleplay-PC-Setup-1.0.0-build53.exe",
+  "sha256": "14dd0ce7d17de58a24a815351f650720e569879e8a26f663fee181d7024827fd",
+  "sizeBytes": 128917790,
+  "notes": "Telefone atualizado por eventos: conversas e chamadas ociosas deixam de consultar repetidamente a API. Discord privado encaminha os eventos ao servidor com recuperacao de entrega. Saldos, historico, midias, motores e entrada nos carros preservados.",
+  "publishedAt": "2026-11-24T17:24:51.293Z"
 }
