@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 55,
+  "build": 56,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build55/NOVA-Roleplay-PC-Setup-1.0.0-build55.exe",
-  "sha256": "02f28fbbd18e6741e646dce6e66b2fb066c09a4475a62e59d0524a3afd8e10ce",
-  "sizeBytes": 128936422,
-  "notes": "Crash inicia em 0,10x, sobe gradualmente e permite perda antes de 1x. Retorno e lucro separados, pagamentos validados pelo servidor. Atualizacoes consultadas pelo site oficial. Motores e carros preservados.",
-  "publishedAt": "2026-11-24T18:38:55.591Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build56/NOVA-Roleplay-PC-Setup-1.0.0-build56.exe",
+  "sha256": "fc08bf72043ca1b30fe61872a9f6e41ef662dc5adea6d6f2066f772d007e4dc4",
+  "sizeBytes": 128936166,
+  "notes": "Corrigido o botao Jogar: autenticacao e telefone usam a API de servicos original, enquanto launcher e Data consultam as atualizacoes no site. Crash, carteira e arquivos de jogo preservados.",
+  "publishedAt": "2026-11-24T19:04:29.975Z"
 }
