@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 241,
+  "versionCode": 242,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build241/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 74843296,
-  "sha256": "42dc1976bea210511bc8e6bd04cacebeaf5a381a20aba26e4451f466073cb943",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build242/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 76037009,
+  "sha256": "8fb5b38554c767b2b86da850fae1e6f7ab993a5ee2e067c26a4d2cb661f966b1",
   "mandatory": false,
-  "notes": "Audio local compartilhado da JBL, radio dos veiculos e telefone: alcance, direcao, sincronizacao da faixa e efeito de portas/vidros/porta-malas. Musica continua ao guardar o telefone. Mantidas as correcoes da mira e VOIP da build240; motores GTA e entrada nos carros preservados. Verificacao fisica ainda pendente.",
-  "publishedAt": "2026-11-23T23:51:59.023Z",
+  "notes": "Desmanche: rodas, portas, capo e motor, com 10 segundos e entrega por peca. Tigrinho com saldo em R$, deposito e saque. Mecanico entrega carros da garagem. Acoes de 24 empresas com cotacao a cada 10 segundos. Mira, entrada nos carros, audio local e mods preservados.",
+  "publishedAt": "2026-11-24T00:33:41.413Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build241",
+  "githubTag": "v4.2-build242",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
