@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 51,
+  "build": 52,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build51/NOVA-Roleplay-PC-Setup-1.0.0-build51.exe",
-  "sha256": "fe1cfd7bf210c4dcfe84f7ef6cf53fbc8053e38220b6495a4f9bc2dcd68be3fc",
-  "sizeBytes": 128918718,
-  "notes": "Mira PC alinhada ao raio de tiro nativo em cada resolucao, com ajustes + e - no GFixer. GRNL preserva os sons do GTA e libera seus canais de efeitos. Spotify e notificacoes do telefone compartilham faixa, pausa e volume. Demais sistemas e mods preservados.",
-  "publishedAt": "2026-11-24T02:58:20.525Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build52/NOVA-Roleplay-PC-Setup-1.0.0-build52.exe",
+  "sha256": "bc60ab74c4697456d2644bf8dbcf7e6ad87e2505768c18bc04f6c6330e64283f",
+  "sizeBytes": 128918212,
+  "notes": "Corrigida consulta de saldos dos investimentos e Tigrinho: consultas simultaneas, repeticao limitada de leituras recusadas e aviso de indisponibilidade sem mostrar saldo zero. Saldos, posicoes e historico preservados. Nenhuma recarga ou estorno artificial.",
+  "publishedAt": "2026-11-24T05:47:55.821Z"
 }
