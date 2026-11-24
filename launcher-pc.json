@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 50,
+  "build": 51,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build50/NOVA-Roleplay-PC-Setup-1.0.0-build50.exe",
-  "sha256": "f2ee3cc5a87a43a15303a5591373888952b1f863fff2b4e424faa3cf7fa04023",
-  "sizeBytes": 128914107,
-  "notes": "Tigrinho com saldo em R$, deposito e saque. Mecanico entrega carros da garagem. Acoes de 24 empresas atualizadas a cada 10 segundos e novo capo do desmanche. Preservados audio local, mods e demais sistemas.",
-  "publishedAt": "2026-11-24T00:31:14.128Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build51/NOVA-Roleplay-PC-Setup-1.0.0-build51.exe",
+  "sha256": "fe1cfd7bf210c4dcfe84f7ef6cf53fbc8053e38220b6495a4f9bc2dcd68be3fc",
+  "sizeBytes": 128918718,
+  "notes": "Mira PC alinhada ao raio de tiro nativo em cada resolucao, com ajustes + e - no GFixer. GRNL preserva os sons do GTA e libera seus canais de efeitos. Spotify e notificacoes do telefone compartilham faixa, pausa e volume. Demais sistemas e mods preservados.",
+  "publishedAt": "2026-11-24T02:58:20.525Z"
 }
