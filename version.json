@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 244,
+  "versionCode": 245,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build244/NOVA-ROLEPLAY.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build245/NOVA-ROLEPLAY.apk",
   "sizeBytes": 78194383,
-  "sha256": "1e59923dae78b902f0190d8cd2ca82435c6e2348301899702aff99fdd91281f9",
+  "sha256": "2fb5f64391466d5f5e8a4bf6ac2758052251ac41e677a9a37657733ab34e4453",
   "mandatory": false,
-  "notes": "Investimentos e Tigrinho: corrigida leitura do saldo, repeticao limitada apenas de consultas recusadas e estado indisponivel em vez de saldo zero em falhas. Valores e posicoes existentes preservados. Motores ARM32 e ARM64 e demais sistemas mantidos.",
-  "publishedAt": "2026-11-24T05:49:17.053Z",
+  "notes": "Multitoque: corrigida colisao de IDs entre joystick e mira, continuidade da sensibilidade ao tocar outros controles e isolamento de dedos extras. Correcao compartilhada por ARM32 e ARM64. Motores, entrada nos carros, Data, telefone e servidor preservados. Validacao automatizada concluida; teste fisico pendente.",
+  "publishedAt": "2026-11-24T08:32:39.934Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build244",
+  "githubTag": "v4.2-build245",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
