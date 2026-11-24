@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 246,
+  "versionCode": 247,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build246/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 79238357,
-  "sha256": "130d97ada65c159ad77cd3564c2638d34ce11a5cca6f2360f6ead5979346402c",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build247/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 80278043,
+  "sha256": "0626ab5fc66e18a630e2cad5f3de94663f216f63a2355636f2b0d23454575fcd",
   "mandatory": false,
-  "notes": "Telefone atualizado por eventos: conversas e chamadas ociosas deixam de consultar repetidamente a API. Discord privado encaminha os eventos ao servidor com recuperacao de entrega. Saldos, historico, midias, motores e entrada nos carros preservados.",
-  "publishedAt": "2026-11-24T17:25:50.164Z",
+  "notes": "Crash inicia em 0,10x, sobe gradualmente e permite perda antes de 1x. Retorno e lucro separados, pagamentos validados pelo servidor. Atualizacoes consultadas pelo site oficial. Motores e carros preservados.",
+  "publishedAt": "2026-11-24T18:38:27.095Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build246",
+  "githubTag": "v4.2-build247",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
