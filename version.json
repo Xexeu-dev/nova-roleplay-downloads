@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 242,
+  "versionCode": 243,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build242/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 76037009,
-  "sha256": "8fb5b38554c767b2b86da850fae1e6f7ab993a5ee2e067c26a4d2cb661f966b1",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build243/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 77113648,
+  "sha256": "291e2229556ae40f2e1dad304ae76de2031a57bbaefc0a51650c9c6d11a59b35",
   "mandatory": false,
-  "notes": "Desmanche: rodas, portas, capo e motor, com 10 segundos e entrega por peca. Tigrinho com saldo em R$, deposito e saque. Mecanico entrega carros da garagem. Acoes de 24 empresas com cotacao a cada 10 segundos. Mira, entrada nos carros, audio local e mods preservados.",
-  "publishedAt": "2026-11-24T00:33:41.413Z",
+  "notes": "Controle de volume no Spotify e nas notificacoes do telefone. Cartao mostra a faixa em reproducao e permite pausar, continuar e trocar musica sem reabrir o aplicativo. Mantidos os motores ARM32/ARM64, entrada nos carros e sistemas da build242.",
+  "publishedAt": "2026-11-24T02:59:22.716Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build242",
+  "githubTag": "v4.2-build243",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
