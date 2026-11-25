@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 253,
+  "versionCode": 254,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build253/NOVA-ROLEPLAY-253.apk",
-  "sizeBytes": 83923928,
-  "sha256": "47ea8661647c96f428143b8201c092958cfc626d1e1b16be2585c6fbea6bebb6",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build254/NOVA-ROLEPLAY-254.apk",
+  "sizeBytes": 83928024,
+  "sha256": "864814c30a19797436d1bc8fef22a472e5ad03e2975b7f546f617242783c872a",
   "mandatory": false,
-  "notes": "Porta deslizante da sala com colisao propria e acesso de dono/moradores. Letreiro amarelo com bordas pretas nos dois lados. Modelos e colisoes iguais em ARM32 e ARM64.",
-  "publishedAt": "2026-11-25T17:53:42.889Z",
+  "notes": "Corrige a exigencia de atualizacoes opcionais ao tocar em Jogar. Usa a versao instalada informada pelo Android e lembra a escolha de jogar sem a atualizacao opcional. Motores ARM32/ARM64 e arquivos do jogo preservados.",
+  "publishedAt": "2026-11-25T20:11:38.966Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build253",
-  "githubAssetName": "NOVA-ROLEPLAY-253.apk"
+  "githubTag": "v4.2-build254",
+  "githubAssetName": "NOVA-ROLEPLAY-254.apk"
 }
