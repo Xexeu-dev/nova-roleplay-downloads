@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 249,
+  "versionCode": 250,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build249/NOVA-ROLEPLAY.apk",
-  "sizeBytes": 80348120,
-  "sha256": "519b0a8c5bc887cef056fbc96e96a9566220d32a4dd58d284b4cfcaec0a49558",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build250/NOVA-ROLEPLAY.apk",
+  "sizeBytes": 80434136,
+  "sha256": "ab77f13d03a3e365f59857312d19cbdbc2674b169fc169fde881f868bff18f10",
   "mandatory": false,
-  "notes": "Corrige a perda de configuracoes do telefone ao trocar o ID da conta. Mantem perfis, mensagens, galeria e saldo dos aplicativos. Motores e entrada nos carros ARM32/ARM64 preservados.",
-  "publishedAt": "2026-11-25T03:16:21.796Z",
+  "notes": "Mansao Xexeu: casa, letreiro e porta de vidro com colisoes proprias. APK ARM32 e ARM64, sistemas existentes preservados.",
+  "publishedAt": "2026-11-25T07:56:46.187Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build249",
+  "githubTag": "v4.2-build250",
   "githubAssetName": "NOVA-ROLEPLAY.apk"
 }
