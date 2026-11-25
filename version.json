@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 252,
+  "versionCode": 253,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build252/NOVA-ROLEPLAY-252.apk",
-  "sizeBytes": 83919832,
-  "sha256": "248f2b5b50ab45eea965ab40c12d7b8d250e85b0d62d22b77ac42dfa99e5df93",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build253/NOVA-ROLEPLAY-253.apk",
+  "sizeBytes": 83923928,
+  "sha256": "47ea8661647c96f428143b8201c092958cfc626d1e1b16be2585c6fbea6bebb6",
   "mandatory": false,
-  "notes": "Mansao Xexeu com colisao fiel aos pisos e paredes, texturas proprias, letreiro e porta de vidro. ARM32 e ARM64 com os mesmos modelos e colisoes.",
-  "publishedAt": "2026-11-25T17:28:56.969Z",
+  "notes": "Porta deslizante da sala com colisao propria e acesso de dono/moradores. Letreiro amarelo com bordas pretas nos dois lados. Modelos e colisoes iguais em ARM32 e ARM64.",
+  "publishedAt": "2026-11-25T17:53:42.889Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build252",
-  "githubAssetName": "NOVA-ROLEPLAY-252.apk"
+  "githubTag": "v4.2-build253",
+  "githubAssetName": "NOVA-ROLEPLAY-253.apk"
 }
