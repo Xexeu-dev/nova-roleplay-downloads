@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 60,
+  "build": 61,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build60/NOVA-Roleplay-PC-Setup-1.0.0-build60.exe",
-  "sha256": "acd89988778d927c68eb33632a28301feb8ca02a6950d28df99a8ce524a56057",
-  "sizeBytes": 130359145,
-  "notes": "Tuning com novo seletor visual de rodas, Nitro e botao de camera. Acessorios pagos preservados, cobranca apenas das diferencas e fechamento ao confirmar.",
-  "publishedAt": "2026-11-26T09:16:55.738Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build61/NOVA-Roleplay-PC-Setup-1.0.0-build61.exe",
+  "sha256": "e1956d195648e2b92b8fca6ce3ae2a3bdf6c21a0fe225716064a9661a9f61e3c",
+  "sizeBytes": 130361594,
+  "notes": "Menu de tuning compacto no canto direito, deixando o carro visivel. Funcoes e correcoes anteriores preservadas.",
+  "publishedAt": "2026-11-26T10:03:58.119Z"
 }
