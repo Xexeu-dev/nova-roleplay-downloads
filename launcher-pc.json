@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 59,
+  "build": 60,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build59/NOVA-Roleplay-PC-Setup-1.0.0-build59.exe",
-  "sha256": "91c4a1fbc26d690e41409c8466ec1a74b1aa84200f2285d4bd432e02d353dce3",
-  "sizeBytes": 129135938,
-  "notes": "Tunning HTML aprovado, interface e perfis do telefone preservados. Resolucao do monitor aplicada somente na primeira abertura. Recuperacao de audio e musica espacial por proximidade.",
-  "publishedAt": "2026-11-26T04:22:42.810Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build60/NOVA-Roleplay-PC-Setup-1.0.0-build60.exe",
+  "sha256": "acd89988778d927c68eb33632a28301feb8ca02a6950d28df99a8ce524a56057",
+  "sizeBytes": 130359145,
+  "notes": "Tuning com novo seletor visual de rodas, Nitro e botao de camera. Acessorios pagos preservados, cobranca apenas das diferencas e fechamento ao confirmar.",
+  "publishedAt": "2026-11-26T09:16:55.738Z"
 }
