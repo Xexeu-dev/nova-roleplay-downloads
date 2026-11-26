@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 258,
+  "versionCode": 259,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build258/NOVA-ROLEPLAY-258.apk",
-  "sizeBytes": 87231485,
-  "sha256": "46053d1f8c9db493c38ca9731d885da0c347d6d53eeb3d787d4276898051e547",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build259/NOVA-ROLEPLAY-259.apk",
+  "sizeBytes": 87235581,
+  "sha256": "f4c61361f2849ba58b29b54f4172e7ea21fff67976a81d8232a2b68fbb98df98",
   "mandatory": false,
-  "notes": "Menu de tuning compacto no canto direito para ver o carro durante a personalizacao. Mantidos o seletor de rodas, Nitro, camera e todas as correcoes anteriores em ARM32 e ARM64.",
-  "publishedAt": "2026-11-26T10:01:26.598Z",
+  "notes": "Correcoes de texturas de skins/carros/rodas, som local e buzina, protecao de piso no spawn/teleporte; tuning compacto e entrada nos carros preservados em32 e64bits.",
+  "publishedAt": "2026-11-26T10:41:10.160Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build258",
-  "githubAssetName": "NOVA-ROLEPLAY-258.apk"
+  "githubTag": "v4.2-build259",
+  "githubAssetName": "NOVA-ROLEPLAY-259.apk"
 }
