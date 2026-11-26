@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 256,
+  "versionCode": 257,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build256/NOVA-ROLEPLAY-256.apk",
-  "sizeBytes": 83953022,
-  "sha256": "f7a130efd3439ab5932a5a2173180469baf26e72a23bb869d8507b583b5d5861",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build257/NOVA-ROLEPLAY-257.apk",
+  "sizeBytes": 87231485,
+  "sha256": "4433ae243cea58efa033e12765f3c8f5995997cb848736b71dffd72590e11319",
   "mandatory": false,
-  "notes": "Tunning HTML aprovado, musica espacial por proximidade, recuperacao de audio, movimento remoto mais fluido e limpeza dos nomes de voz. Correcoes aplicadas em ARM32 e ARM64, preservando os motores e a entrada nos veiculos.",
-  "publishedAt": "2026-11-26T04:20:40.660Z",
+  "notes": "Suspensao com geometria fisica e alinhamento das rodas corrigidos, seletor visual de rodas, Nitro, camera compacta e cobranca apenas das diferencas. Audio HTTPS corrigido e buzina remota aplicada em ARM32 e ARM64, preservando os motores e a entrada nos carros.",
+  "publishedAt": "2026-11-26T09:23:46.110Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build256",
-  "githubAssetName": "NOVA-ROLEPLAY-256.apk"
+  "githubTag": "v4.2-build257",
+  "githubAssetName": "NOVA-ROLEPLAY-257.apk"
 }
