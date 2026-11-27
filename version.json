@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 260,
+  "versionCode": 261,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build260/NOVA-ROLEPLAY-260.apk",
-  "sizeBytes": 87235581,
-  "sha256": "9d017830bd6bc5b6404ef2d2f32abc6d80eec04b63c942df842790144a1a1c44",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build261/NOVA-ROLEPLAY-261.apk",
+  "sizeBytes": 87239677,
+  "sha256": "9818f09bc572f0e869dd5346b3432f68bab409e33d94e40059b352d52d6be079",
   "mandatory": false,
-  "notes": "Oculta comandos internos no chat e corrige inicializacao do microfone Android em32 e64bits. Motores, entrada nos carros, tuning e Data preservados.",
-  "publishedAt": "2026-11-26T23:39:47.786Z",
+  "notes": "Correcoes de mira/movimentacao no mobilador, som espacial, tuning, rodas, cores e objetos interiores em32 e64bits. Motores GTA/BASS e sistemas anteriores preservados.",
+  "publishedAt": "2026-11-27T11:20:47.948Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build260",
-  "githubAssetName": "NOVA-ROLEPLAY-260.apk"
+  "githubTag": "v4.2-build261",
+  "githubAssetName": "NOVA-ROLEPLAY-261.apk"
 }
