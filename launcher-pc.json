@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 64,
+  "build": 65,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build64/NOVA-Roleplay-PC-Setup-1.0.0-build64.exe",
-  "sha256": "0680504ca03f6e09c006edc6724f56182993c3d58d3f603d88f2ee3dee73d8ba",
-  "sizeBytes": 130377933,
-  "notes": "Corrige a identificacao do launcher nas reconexoes apos quedas e reinicios. Preserva a escolha de Data e todos os mods e sistemas da versao63, sem instalar extras.",
-  "publishedAt": "2026-11-27T22:26:01.544Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build65/NOVA-Roleplay-PC-Setup-1.0.0-build65.exe",
+  "sha256": "229b0220c4261eb64662eabc65d1d1a3cd149e858090478fbd226ced80ea75cb",
+  "sizeBytes": 130378402,
+  "notes": "Autenticacao direta com ticket oficial e suporte a segundo plano; corrige bloqueio indevido do cliente. Corrige instalacao do desmanche na Data escolhida e inclui FastConnect solicitado, preservando a base pessoal e os sistemas existentes.",
+  "publishedAt": "2026-11-27T23:17:33.248Z"
 }
