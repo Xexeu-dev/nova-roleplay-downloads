@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 61,
+  "build": 62,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build61/NOVA-Roleplay-PC-Setup-1.0.0-build61.exe",
-  "sha256": "e1956d195648e2b92b8fca6ce3ae2a3bdf6c21a0fe225716064a9661a9f61e3c",
-  "sizeBytes": 130361594,
-  "notes": "Menu de tuning compacto no canto direito, deixando o carro visivel. Funcoes e correcoes anteriores preservadas.",
-  "publishedAt": "2026-11-26T10:03:58.119Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build62/NOVA-Roleplay-PC-Setup-1.0.0-build62.exe",
+  "sha256": "4b348e1821249ce7085fd52029934fc2f77ebd621e421f457f6c099a56ce0818",
+  "sizeBytes": 130369975,
+  "notes": "Correcoes de tuning, notificacoes, som espacial e xadrez online; novos veiculos. Menu compacto e sistemas existentes preservados.",
+  "publishedAt": "2026-11-27T11:23:32.665Z"
 }
