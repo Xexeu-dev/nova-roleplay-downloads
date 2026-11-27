@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 65,
+  "build": 66,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build65/NOVA-Roleplay-PC-Setup-1.0.0-build65.exe",
-  "sha256": "229b0220c4261eb64662eabc65d1d1a3cd149e858090478fbd226ced80ea75cb",
-  "sizeBytes": 130378402,
-  "notes": "Autenticacao direta com ticket oficial e suporte a segundo plano; corrige bloqueio indevido do cliente. Corrige instalacao do desmanche na Data escolhida e inclui FastConnect solicitado, preservando a base pessoal e os sistemas existentes.",
-  "publishedAt": "2026-11-27T23:17:33.248Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build66/NOVA-Roleplay-PC-Setup-1.0.0-build66.exe",
+  "sha256": "9bcff4ca014af2a7f6abcb7e0310e1e47cc4a17918151b140d20151d567b3015",
+  "sizeBytes": 130378562,
+  "notes": "Restaura fome, sede, sono, logo e HUD do veiculo na Data personalizada. Encaminha os controles das interfaces oficiais para telefone, porta-malas e tuning, preservando os arquivos pessoais e o FastConnect solicitado.",
+  "publishedAt": "2026-11-27T23:50:27.058Z"
 }
