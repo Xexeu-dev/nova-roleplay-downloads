@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 63,
+  "build": 64,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build63/NOVA-Roleplay-PC-Setup-1.0.0-build63.exe",
-  "sha256": "1ac6143805c05ad3ef760a27fc9914c8b601dfbd2a96cbd384e9354c0bb2b7cf",
-  "sizeBytes": 130378170,
-  "notes": "Escolher pasta da sua Data nas configurações. Aplica carros, skins, mansões, menus HTML/telefone e GPS, preservando a base escolhida. Não instala GameFixer, sensibilidade, bind, mods de armas ou traçante. Compatibilidade de plugins e backup dos arquivos substituídos.",
-  "publishedAt": "2026-11-27T21:19:48.742Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build64/NOVA-Roleplay-PC-Setup-1.0.0-build64.exe",
+  "sha256": "0680504ca03f6e09c006edc6724f56182993c3d58d3f603d88f2ee3dee73d8ba",
+  "sizeBytes": 130377933,
+  "notes": "Corrige a identificacao do launcher nas reconexoes apos quedas e reinicios. Preserva a escolha de Data e todos os mods e sistemas da versao63, sem instalar extras.",
+  "publishedAt": "2026-11-27T22:26:01.544Z"
 }
