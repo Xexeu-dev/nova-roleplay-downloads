@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 262,
+  "versionCode": 263,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build262/NOVA-ROLEPLAY-262.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build263/NOVA-ROLEPLAY-263.apk",
   "sizeBytes": 87243773,
-  "sha256": "6b2008149fad60d9e521a4c8a3e63137491cae16188dacfb0300714430b72b95",
+  "sha256": "6d23620f8e454b48b2c110c045bba520ed4d45d8283a8fb56110aa4e9df3b17e",
   "mandatory": false,
-  "notes": "Strafe mais leve, resposta de mira mais rapida e10% mais velocidade de animacao. Botoes essenciais visiveis no modo mobilador; correcoes para ARM32 e ARM64, preservando motores e carros.",
-  "publishedAt": "2026-11-27T17:53:57.519Z",
+  "notes": "Aplicar Data por pasta, ZIP ou7z; caminho IMG corrigido e banco oficial de skins, carros e mansoes protegido. Preserva os motores, strafe, entrada em carros e VOIP das duas arquiteturas.",
+  "publishedAt": "2026-11-27T22:31:21.031Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build262",
-  "githubAssetName": "NOVA-ROLEPLAY-262.apk"
+  "githubTag": "v4.2-build263",
+  "githubAssetName": "NOVA-ROLEPLAY-263.apk"
 }
