@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 62,
+  "build": 63,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build62/NOVA-Roleplay-PC-Setup-1.0.0-build62.exe",
-  "sha256": "4b348e1821249ce7085fd52029934fc2f77ebd621e421f457f6c099a56ce0818",
-  "sizeBytes": 130369975,
-  "notes": "Correcoes de tuning, notificacoes, som espacial e xadrez online; novos veiculos. Menu compacto e sistemas existentes preservados.",
-  "publishedAt": "2026-11-27T11:23:32.665Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build63/NOVA-Roleplay-PC-Setup-1.0.0-build63.exe",
+  "sha256": "1ac6143805c05ad3ef760a27fc9914c8b601dfbd2a96cbd384e9354c0bb2b7cf",
+  "sizeBytes": 130378170,
+  "notes": "Escolher pasta da sua Data nas configurações. Aplica carros, skins, mansões, menus HTML/telefone e GPS, preservando a base escolhida. Não instala GameFixer, sensibilidade, bind, mods de armas ou traçante. Compatibilidade de plugins e backup dos arquivos substituídos.",
+  "publishedAt": "2026-11-27T21:19:48.742Z"
 }
