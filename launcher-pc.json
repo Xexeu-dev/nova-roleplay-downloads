@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 67,
+  "build": 68,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build67/NOVA-Roleplay-PC-Setup-1.0.0-build67.exe",
-  "sha256": "700a5d4a2cd57fb576168ec1d4c17503cef4c176f3d1243aac00e08b1f1442a1",
-  "sizeBytes": 130378455,
-  "notes": "Corrige musica e JBL sem som na Data escolhida com as dependencias oficiais e a Data112. Sincroniza faixas HTTPS sem bloquear o volume; preserva HUD, HTML, VOIP, autenticacao, FastConnect e os demais mods.",
-  "publishedAt": "2026-11-28T02:52:00.291Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build68/NOVA-Roleplay-PC-Setup-1.0.0-build68.exe",
+  "sha256": "638cd8ccf73f4ff88ca7ab148e92a84ded9c915327a4f9454e2ec513240b68f9",
+  "sizeBytes": 130433435,
+  "notes": "Spotify com proxima musica automatica e fila organizada. RAM1500 TRX300km/h, fisica reforcada e estabilidade da Lataria pelo pacote Data114. Preserva som/JBL aprovado, VOIP, HUD, mods e a Data escolhida.",
+  "publishedAt": "2026-11-28T05:51:58.008Z"
 }
