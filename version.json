@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 265,
+  "versionCode": 266,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build265/NOVA-ROLEPLAY-265.apk",
-  "sizeBytes": 87247869,
-  "sha256": "5161618f65056827299bfc99ec1712fe7752e0d62c1af6d42f90b9dfd4870f13",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build266/NOVA-ROLEPLAY-266.apk",
+  "sizeBytes": 88291744,
+  "sha256": "1b75ca3cd3a52bc0a5ab8bde1b425d7f31b48b6fa26dfce1408aa8f95ecbf472",
   "mandatory": false,
-  "notes": "Corrige cortes nas musicas do telefone, JBL e radio dos carros: sincronizacao acompanha o audio reproduzido sem silenciar o buffer. Corrige tambem faixas HTTPS sem seek direto, para ARM32 e ARM64. Preserva carros, strafe, mods, HUD e VOIP.",
-  "publishedAt": "2026-11-28T03:09:56.879Z",
+  "notes": "Rodas modificadas com carregamento confirmado, RAM1500 TRX300km/h e fisica reforcada. Spotify com proxima musica automatica e fila. Data56 instala nova lider da org30. ARM32 e ARM64; som/JBL aprovado, VOIP e motores preservados.",
+  "publishedAt": "2026-11-28T05:47:01.670Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build265",
-  "githubAssetName": "NOVA-ROLEPLAY-265.apk"
+  "githubTag": "v4.2-build266",
+  "githubAssetName": "NOVA-ROLEPLAY-266.apk"
 }
