@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 66,
+  "build": 67,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build66/NOVA-Roleplay-PC-Setup-1.0.0-build66.exe",
-  "sha256": "9bcff4ca014af2a7f6abcb7e0310e1e47cc4a17918151b140d20151d567b3015",
-  "sizeBytes": 130378562,
-  "notes": "Restaura fome, sede, sono, logo e HUD do veiculo na Data personalizada. Encaminha os controles das interfaces oficiais para telefone, porta-malas e tuning, preservando os arquivos pessoais e o FastConnect solicitado.",
-  "publishedAt": "2026-11-27T23:50:27.058Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build67/NOVA-Roleplay-PC-Setup-1.0.0-build67.exe",
+  "sha256": "700a5d4a2cd57fb576168ec1d4c17503cef4c176f3d1243aac00e08b1f1442a1",
+  "sizeBytes": 130378455,
+  "notes": "Corrige musica e JBL sem som na Data escolhida com as dependencias oficiais e a Data112. Sincroniza faixas HTTPS sem bloquear o volume; preserva HUD, HTML, VOIP, autenticacao, FastConnect e os demais mods.",
+  "publishedAt": "2026-11-28T02:52:00.291Z"
 }
