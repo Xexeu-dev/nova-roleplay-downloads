@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 266,
+  "versionCode": 267,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build266/NOVA-ROLEPLAY-266.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build267/NOVA-ROLEPLAY-267.apk",
   "sizeBytes": 88291744,
-  "sha256": "1b75ca3cd3a52bc0a5ab8bde1b425d7f31b48b6fa26dfce1408aa8f95ecbf472",
+  "sha256": "ff15bc06cec30bafe94a7d6da6abf659880f59dbc69244c811e32ece5f0ac088",
   "mandatory": false,
-  "notes": "Rodas modificadas com carregamento confirmado, RAM1500 TRX300km/h e fisica reforcada. Spotify com proxima musica automatica e fila. Data56 instala nova lider da org30. ARM32 e ARM64; som/JBL aprovado, VOIP e motores preservados.",
-  "publishedAt": "2026-11-28T05:47:01.670Z",
+  "notes": "Dodge RAM1500 TRX corrigida no modelo543: perfil500km/h, massa6500kg e forca reforcada. ARM32 e ARM64. Preserva rodas, skins org29, tuning, telefone, som/JBL, VOIP e motores GTA.",
+  "publishedAt": "2026-11-28T07:35:57.578Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build266",
-  "githubAssetName": "NOVA-ROLEPLAY-266.apk"
+  "githubTag": "v4.2-build267",
+  "githubAssetName": "NOVA-ROLEPLAY-267.apk"
 }
