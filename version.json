@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 267,
+  "versionCode": 268,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build267/NOVA-ROLEPLAY-267.apk",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build268/NOVA-ROLEPLAY-268.apk",
   "sizeBytes": 88291744,
-  "sha256": "ff15bc06cec30bafe94a7d6da6abf659880f59dbc69244c811e32ece5f0ac088",
+  "sha256": "f965af79e42cbfc3e7a3ce733f8f76bec7c5511a48772cf87d5f4988d30fd6ca",
   "mandatory": false,
-  "notes": "Dodge RAM1500 TRX corrigida no modelo543: perfil500km/h, massa6500kg e forca reforcada. ARM32 e ARM64. Preserva rodas, skins org29, tuning, telefone, som/JBL, VOIP e motores GTA.",
-  "publishedAt": "2026-11-28T07:35:57.578Z",
+  "notes": "RAM543 com maior aderencia em curvas e freios3x, em ARM32 e ARM64. Mantem500km/h, massa6500kg, tunagens, sons e os demais veiculos.",
+  "publishedAt": "2026-11-28T08:21:50.287Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build267",
-  "githubAssetName": "NOVA-ROLEPLAY-267.apk"
+  "githubTag": "v4.2-build268",
+  "githubAssetName": "NOVA-ROLEPLAY-268.apk"
 }
