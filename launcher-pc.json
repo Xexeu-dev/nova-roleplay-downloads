@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "build": 69,
+  "build": 70,
   "version": "1.0.0",
-  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build69/NOVA-Roleplay-PC-Setup-1.0.0-build69.exe",
-  "sha256": "325da6b420fc42b108a58b186a16011b61788bf3911c855d5583c7c94f7638ff",
-  "sizeBytes": 130433393,
-  "notes": "Dodge RAM1500 TRX corrigida no modelo543: perfil500km/h, massa6500kg e forca reforcada. Corrige o ajuste aplicado antes ao modelo554. Preserva skins org29, tuning, som/JBL, VOIP, HUD e Data escolhida.",
-  "publishedAt": "2026-11-28T07:31:25.444Z"
+  "url": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/pc-v1.0.0-build70/NOVA-Roleplay-PC-Setup-1.0.0-build70.exe",
+  "sha256": "c70d28060aecf6724d62f378339f5c94c3f49957928c907ab0132d8af6eabef7",
+  "sizeBytes": 130433588,
+  "notes": "Dodge RAM543 com maior aderencia em curvas, carroceria estavel e freios3x. Mantem500km/h, massa6500kg, tunagens e os demais veiculos.",
+  "publishedAt": "2026-11-28T08:19:51.978Z"
 }
