@@ -1,16 +1,16 @@
 {
   "packageName": "com.novaroleplay.game",
-  "versionCode": 263,
+  "versionCode": 264,
   "versionName": "4.2",
   "minimumVersionName": "4.2",
-  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build263/NOVA-ROLEPLAY-263.apk",
-  "sizeBytes": 87243773,
-  "sha256": "6d23620f8e454b48b2c110c045bba520ed4d45d8283a8fb56110aa4e9df3b17e",
+  "downloadUrl": "https://github.com/Xexeu-dev/nova-roleplay-downloads/releases/download/v4.2-build264/NOVA-ROLEPLAY-264.apk",
+  "sizeBytes": 87247869,
+  "sha256": "e0501766b8b6eb2279ef467917d5b9d4fbc3975eaca91f57fa0e4f73416c61d2",
   "mandatory": false,
-  "notes": "Aplicar Data por pasta, ZIP ou7z; caminho IMG corrigido e banco oficial de skins, carros e mansoes protegido. Preserva os motores, strafe, entrada em carros e VOIP das duas arquiteturas.",
-  "publishedAt": "2026-11-27T22:31:21.031Z",
+  "notes": "Corrige JBL, musica no telefone e radio dos carros sem som: sincronizacao de faixas HTTPS sem seek direto nos motores ARM32 e ARM64. Preserva entrada nos veiculos, strafe, mods, HUD, Data55 e VOIP.",
+  "publishedAt": "2026-11-28T02:58:18.379Z",
   "minimumVersionCode": 197,
   "minVersionName": "4.2",
-  "githubTag": "v4.2-build263",
-  "githubAssetName": "NOVA-ROLEPLAY-263.apk"
+  "githubTag": "v4.2-build264",
+  "githubAssetName": "NOVA-ROLEPLAY-264.apk"
 }
